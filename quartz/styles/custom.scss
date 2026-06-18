@@ -1,3 +1,151 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+// MORDHEIM AUSTRALIS 2027 — custom styles
+// ============================================================
+
+// --- Body font: system sans (no web font for body text) -----
+body, p, li, td, th, blockquote {
+  font-family: var(--bodyFont);
+}
+
+// --- Cinzel for all headings and unit names -----------------
+h1, h2, h3, h4, h5, h6,
+.page-title,
+.article-title {
+  font-family: var(--headerFont);
+  letter-spacing: 0.02em;
+}
+
+// ============================================================
+// STAT BLOCKS
+// ============================================================
+table.statblock {
+  font-family: var(--codeFont);
+  font-size: 0.82rem;
+  border-collapse: collapse;
+  width: auto;
+  margin: 0.4rem 0 0.6rem 0;
+
+  thead tr {
+    background-color: var(--secondary);
+    color: var(--light);
+
+    th {
+      padding: 3px 8px;
+      text-align: center;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      border: 1px solid var(--tertiary);
+      min-width: 2rem;
+    }
+  }
+
+  tbody tr {
+    background-color: var(--lightgray);
+
+    td {
+      padding: 3px 8px;
+      text-align: center;
+      border: 1px solid var(--gray);
+    }
+  }
+}
+
+// ============================================================
+// UNIT PROFILE HELPERS
+// ============================================================
+.unit-meta {
+  display: block;
+  font-size: 0.82rem;
+  color: var(--gray);
+  margin: -0.4rem 0 0.5rem 0;
+  font-style: italic;
+}
+
+.unit-rules {
+  font-size: 0.88rem;
+  margin: 0.3rem 0 0.2rem 0;
+  color: var(--darkgray);
+
+  strong {
+    color: var(--secondary);
+  }
+}
+
+.unit-equip {
+  font-size: 0.88rem;
+  margin: 0.3rem 0 0.8rem 0;
+  color: var(--darkgray);
+
+  strong {
+    color: var(--secondary);
+  }
+}
+
+// ============================================================
+// AMBER TAG PILLS
+// Fixed amber — stays amber even on accented pages
+// ============================================================
+:root {
+  --tag-amber: #B87333;
+  --tag-amber-bg: rgba(184, 115, 51, 0.12);
+}
+
+.tags {
+  .tag-link {
+    background-color: var(--tag-amber-bg) !important;
+    color: var(--tag-amber) !important;
+    border: 1px solid var(--tag-amber) !important;
+    border-radius: 9999px;
+    padding: 2px 10px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-decoration: none;
+
+    &:hover {
+      background-color: var(--tag-amber) !important;
+      color: var(--light) !important;
+    }
+  }
+}
+
+// ============================================================
+// WARBAND STATUS BANNER
+// ============================================================
+.warband-status {
+  border-left: 4px solid var(--secondary);
+  background-color: var(--highlight);
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.88rem;
+
+  &.unofficial {
+    border-left-color: #8B0000;
+    background-color: rgba(139, 0, 0, 0.08);
+  }
+
+  &.grade-1a {
+    border-left-color: #2d6a2d;
+    background-color: rgba(45, 106, 45, 0.08);
+  }
+
+  &.grade-1b {
+    border-left-color: #1a4a7a;
+    background-color: rgba(26, 74, 122, 0.08);
+  }
+}
+
+// ============================================================
+// GENERAL POLISH
+// ============================================================
+// Slightly warmer link colour
+a {
+  color: var(--secondary);
+}
+
+// Tighten up the explorer nav a touch
+.folder-outer {
+  font-size: 0.9rem;
+}

@@ -1,68 +1,75 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Mordheimer.net": "https://mordheimer.net",
+      "Broheim.net": "https://www.broheim.net",
+      "Built with Quartz": "https://quartz.jzhao.xyz",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// NOTE: sortFn is serialised via .toString() and reconstructed with new Function()
+// in the browser — it must be fully self-contained with no closure variables.
+const explorerComponent = Component.DesktopOnly(
+  Component.Explorer({
+    folderClickBehavior: "collapse",
+    folderDefaultState: "collapsed",
+    useSavedState: true,
+    sortFn: (a, b) => {
+      const ORDER = ["core-8","chaos","dwarfs","elves","greenskins","human","lustria","other","undead","reference","campaign","roster"]
+      if (a.isFolder && !b.isFolder) return -1
+      if (!a.isFolder && b.isFolder) return 1
+      if (a.isFolder && b.isFolder) {
+        const ai = ORDER.indexOf(a.slugSegment)
+        const bi = ORDER.indexOf(b.slugSegment)
+        if (ai !== -1 && bi !== -1) return ai - bi
+        if (ai !== -1) return -1
+        if (bi !== -1) return 1
+      }
+      return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+    },
+    filterFn: (node) => node.slugSegment !== "tags",
+  })
+)
+
+const leftComponents = [
+  Component.PageTitle(),
+  Component.MobileOnly(Component.Spacer()),
+  Component.Search(),
+  Component.Darkmode(),
+  explorerComponent,
+]
+
+const rightComponents = [
+  Component.DesktopOnly(Component.TableOfContents()),
+  Component.DesktopOnly(Component.Backlinks()),
+]
+
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.AccentColor(),
+    Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  left: leftComponents,
+  right: rightComponents,
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
+  beforeBody: [
+    Component.AccentColor(),
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
   ],
-  right: [],
+  left: leftComponents,
+  right: rightComponents,
 }
