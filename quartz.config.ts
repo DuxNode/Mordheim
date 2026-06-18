@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "mordheim-australis-2027.pages.dev", // update after Cloudflare gives you the real URL
+    baseUrl: "mordheim.pages.dev", // update after Cloudflare gives you the real URL
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
