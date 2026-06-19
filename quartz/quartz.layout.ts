@@ -1,26 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Left-nav category order: Core 8 → Chaos → Dwarfs → Elves → Greenskins →
-// Human → Lustria → Other → Undead → Reference → Campaign → Roster
-const NAV_ORDER = [
-  "core-8",
-  "chaos",
-  "dwarfs",
-  "elves",
-  "greenskins",
-  "human",
-  "lustria",
-  "other",
-  "undead",
-  "reference",
-  "campaign",
-  "roster",
-]
-
-// Shared layout.
-// NOTE: afterBody here is overwritten by the ContentPage/FolderPage/TagPage emitter
-// spreads — it must be [] and AccentColor must live in beforeBody instead.
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -34,32 +14,27 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// NOTE: sortFn is serialised via .toString() and reconstructed with new Function()
+// in the browser — it must be fully self-contained with no closure variables.
 const explorerComponent = Component.DesktopOnly(
   Component.Explorer({
     folderClickBehavior: "collapse",
     folderDefaultState: "collapsed",
     useSavedState: true,
     sortFn: (a, b) => {
-      const aSlug = a.file?.slug ?? ""
-      const bSlug = b.file?.slug ?? ""
-      const aTop = aSlug.split("/")[0] || a.name?.toLowerCase().replace(/\s+/g, "-") || ""
-      const bTop = bSlug.split("/")[0] || b.name?.toLowerCase().replace(/\s+/g, "-") || ""
-      const ai = NAV_ORDER.indexOf(aTop)
-      const bi = NAV_ORDER.indexOf(bTop)
-
-      if (a.file == null && b.file != null) return -1
-      if (a.file != null && b.file == null) return 1
-
-      if (a.file == null && b.file == null) {
+      const ORDER = ["core-8","chaos","dwarfs","elves","greenskins","human","lustria","undead","unofficial","reference","campaign","roster"]
+      if (a.isFolder && !b.isFolder) return -1
+      if (!a.isFolder && b.isFolder) return 1
+      if (a.isFolder && b.isFolder) {
+        const ai = ORDER.indexOf(a.slugSegment)
+        const bi = ORDER.indexOf(b.slugSegment)
         if (ai !== -1 && bi !== -1) return ai - bi
         if (ai !== -1) return -1
         if (bi !== -1) return 1
-        return a.name.localeCompare(b.name, undefined, { numeric: true, sensitivity: "base" })
       }
-
-      return aSlug.localeCompare(bSlug, undefined, { numeric: true, sensitivity: "base" })
+      return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
     },
-    filterFn: (node) => node.name !== "tags",
+    filterFn: (node) => node.slugSegment !== "tags",
   })
 )
 
@@ -76,12 +51,8 @@ const rightComponents = [
   Component.DesktopOnly(Component.Backlinks()),
 ]
 
-// Default layout for regular content pages.
-// AccentColor is first in beforeBody — emits an invisible <style> tag that must
-// appear before other content so CSS variable overrides apply correctly.
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.AccentColor(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -91,11 +62,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: rightComponents,
 }
 
-// Folder index pages — separate object (not an alias) so the spread in
-// FolderPage emitter doesn't inherit an undefined afterBody from a shared ref.
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.AccentColor(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
