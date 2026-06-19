@@ -1,12 +1,12 @@
 ---
-title: "Remasens"
+title: "Tileans"
 tags:
   - Human
   - Australis 2027
 grade: 1b
 ---
 
-*Background for Remasens — to be written.*
+*Background for Tileans — to be written.*
 
 ---
 
@@ -98,15 +98,22 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 | | Combat | Shooting | Academic | Strength | Speed |
 |---|---|---|---|---|---|
 | Captain | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Champion | ✓ |  | ✓ | ✓ |  |
-| Youngblood | ✓ |  | ✓ |  | ✓ |
+| Champion | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Youngblood | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ---
 
 <!-- _review (not shown on site):
-  - Setting: Lustria / Cities of Gold. Source: Town Cryer #14. Grade-1b. One of the three Tilean city-state variants (shares the Tilean roster & equipment lists).
-  - Remasen special rules (player-enforced; QM cannot represent): may re-roll ONE rout test per game when fighting Dark Elves (must accept second roll); Captain/Champion/Youngblood Leadership is permanently +1 (QM cannot raise hero Ld - apply manually); Hired Swords - cannot take Dark Elf Hired Swords.
-  - Skill tables encoded per the mordheimer.net Tilean table (Jun 2026): Captain C/Sh/Ac/St/Sp; Champion C/Ac/St; Youngblood C/Ac/Sp.
-  - Equipment = standard Tilean lists: Duelling pistol 25gc (50 brace per source); Pike 12gc Rare 7 (Strike first when charged / Long polearm / Unwieldy / Large only); Rapier 15gc (Parry).
-  - Marksmen I3 as printed on mordheimer.net (possible source error; used as printed).
+  - Three city-state variants (Miraglean, Remasens, Trantio) each have different Champion and Youngblood skill tables and different special warband rules — QM cannot represent variants; all skill tables merged to union (all 5) for heroes below; player must choose one city-state and follow that variant's rules
+  - Miraglean Champion: Combat/Shooting/Speed | Remasens Champion: Combat/Academic/Strength | Trantio Champion: Combat/Shooting/Speed
+  - Miraglean Youngblood: Shooting/Strength/Speed (✏️ Speed uncertain per mordheimer.net) | Remasens Youngblood: Combat/Academic/Speed | Trantio Youngblood: Combat/Shooting/Strength
+  - Miraglean rules: Heroes +1 to hit with crossbow; Marksmen +1 to hit with all missile weapons; Hate Skaven; no Skaven Hired Swords — not enforceable in QM
+  - Remasens rules: re-roll one rout test vs Dark Elves; Captain/Champion/Youngblood Ld permanently +1 (QM cannot raise hero Ld); no Dark Elf Hired Swords — not enforceable in QM
+  - Trantio rules: +100gc in one-off / +20% Lustrian campaign starting gold — not enforceable in QM
+  - Duelling Pistol override 25gc (standard 30gc); Brace of Duelling Pistols = 50gc (2×25gc) per source
+  - Pike 12gc Rare 7: Strike First when charged (even vs spears), Long Polearm (attack up to 3" away), Unwieldy (1A only, no shield/buckler), Large (man-sized+ only) — inline item
+  - Marksmen I3✏️ on mordheimer.net — used as printed; may be a source error
+  - Miraglean Youngblood Speed skill ✏️ on mordheimer.net — included, source uncertain
+  - Setting: Lustria / Cities of Gold. Source: Town Cryer #14. Grade-1b.
+  - v13 migration: Duelling pistol 25gc / 50gc brace. Pike = 12gc Rare 7 (Strike first when charged/Long polearm/Unwieldy/Large only - mordheimer.net-verified). Rapier = 15gc / Rare 5 (VERIFIED master list: Parry, Barrage, +1 enemy armour save).
 -->

@@ -57,10 +57,9 @@ table.statblock {
 // ============================================================
 .unit-meta {
   display: block;
-  font-size: 0.82rem;
+  font-size: 0.85em;
   color: var(--gray);
-  margin: -0.4rem 0 0.5rem 0;
-  font-style: italic;
+  margin-bottom: 0.5rem;
 }
 
 .unit-rules {
