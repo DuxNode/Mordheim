@@ -22,7 +22,7 @@ const explorerComponent = Component.DesktopOnly(
     folderDefaultState: "collapsed",
     useSavedState: true,
     sortFn: (a, b) => {
-      const ORDER = ["core-8","chaos","dwarfs","elves","greenskins","human","lustria","other","undead","reference","campaign","roster"]
+      const ORDER = ["core-8","chaos","dwarfs","elves","greenskins","human","lustria","undead","unofficial","reference","campaign","roster"]
       if (a.isFolder && !b.isFolder) return -1
       if (!a.isFolder && b.isFolder) return 1
       if (a.isFolder && b.isFolder) {
