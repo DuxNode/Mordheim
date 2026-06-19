@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 /**
  * Mordheim Australis 2027 — Quartz v4 site config
  * Fonts: Cinzel (headings) · IBM Plex Mono (code/stat tables) · system-sans (body)
- * Accent: amber/bronze #B87333 default; per-page override via frontmatter `accent` field
+ * Colours: Quartz v4 defaults — clean slate, revisit in Phase 5
  */
 const config: QuartzConfig = {
   configuration: {
@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "mordheim.pages.dev", // update after Cloudflare gives you the real URL
+    baseUrl: "mordheim.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -26,26 +26,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f1",
-          lightgray: "#e8e0d0",
-          gray: "#b8a898",
-          darkgray: "#3a2e28",
-          dark: "#1a1008",
-          secondary: "#B87333",   // amber/bronze — default accent
-          tertiary: "#8B5E1A",
-          highlight: "rgba(184, 115, 51, 0.12)",
-          textHighlight: "#f5e6d0",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#1a1008",
-          lightgray: "#2a1e14",
-          gray: "#6a5a4a",
-          darkgray: "#d4c4b0",
-          dark: "#f0e8d8",
-          secondary: "#D29A5C",
-          tertiary: "#B87333",
-          highlight: "rgba(210, 154, 92, 0.15)",
-          textHighlight: "#3a2808",
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
       },
     },

@@ -53,7 +53,6 @@ const rightComponents = [
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.AccentColor(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -65,7 +64,6 @@ export const defaultContentPageLayout: PageLayout = {
 
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
-    Component.AccentColor(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
