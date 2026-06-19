@@ -1,62 +1,111 @@
 ---
-title: The Brazen Tithe
+title: "The Brazen Tithe"
 tags:
-  - Chaos Dwarfs
-  - Australis 2027
+  - Dwarfs
   - Unofficial
-  - Custom
-accent: "#C0461F"
-accentDark: "#E07A3E"
 grade: unofficial
+accent: "#B05010"
 ---
 
-# The Brazen Tithe
+<div class="warband-status grade-unofficial">Unofficial — Helsmiths of Hashut · Custom Ruleset v3.6</div>
 
-<div class="warband-status unofficial">
-⚠ <strong>Unofficial — House Rules.</strong> The Brazen Tithe is a custom redesign of the Chaos Dwarfs warband by Ash Lawrenz. It is not a published Mordheim source. Rules are theoretical and have not been playtested.
-</div>
+**Source:** Ash Lawrenz (custom) · **Setting:** Mordheim Australis
 
-The Brazen Tithe are servants of Hashut, Father of Darkness — a warband of iron-willed Chaos Dwarfs who bind wretched human slaves to their service through cruelty, fire, and the dread weight of the Tithe itself. They come to Mordheim not for gold but for wyrdstone: raw material for the Daemonsmiths' infernal forges and fuel for the Offering that keeps Hashut's gaze upon them.
+Far from the ash-choked Plain of Zharr and the obsidian ziggurats of Mingol Zharr-Naggrund, small expeditions of Chaos Dwarfs move through the lands of lesser races. These are not raiding armies — not yet. Each is a *Prospect*: a survey party sent ahead of the slave-caravans to chart roads, assay plunder, and mark the settlements of men for harvests still to come. They travel light and work deliberately, sowing terror and discord in their wake — branded survivors, burned shrines, the name of Hashut whispered in the dark — so that when the caravans finally roll, fear will have done half the work for them.
 
-**Maximum warband size:** 15 · **Starting gold:** 500 gc · **Hired Swords:** Yes
+Trailing behind every Prospect comes its pack-train of Wretches: goblins, hobgoblins, broken men and stranger things, enslaved along the road and lashed into hauling ore, digging assay-pits and dying first. Their masters spare them nothing — not armour, not mercy, not names — for there are always more to be taken where the Prospect passes. The Wretches are aware of this. They are not happy about it. Their opinions, however, are not being solicited.
+
+At the head of each expedition stands a Sorcerer, a Priest of Hashut whose ambition burns hotter than any furnace. Such postings are no exile: a Prospect is a proving ground, and every misdeed worked, every soul seared and every offering given to the flames is tallied by the Father of Darkness. The Sorcerer who returns with rich claims and a ledger of cruelties may rise high in the Temple — if the Curse of Stone does not claim his legs before ambition claims its prize.
 
 ---
 
-## Warband Special Rules
+## Special Rules
 
-**Slaves to Darkness.** The Brazen Tithe may recruit Wretches (human slaves) in any number. Wretches do not count toward the warband maximum of 15.
+The following apply to all warriors **excluding Wretches and the Brazen Bull**:
 
-**The Offering.** After each battle, the warband may sacrifice wyrdstone shards to Hashut in exchange for dark boons. This is a campaign mechanic tracked separately.
+**Hard to Kill:** Chaos Dwarfs are taken *out of action* only on a roll of 6 on the Injury chart. Treat 1–2 as knocked down, 3–5 as stunned, 6 as out of action.
 
-**Servants of the Dark Father.** The Sorcerer's presence on the battlefield grants the warband +1 to the Offering roll each post-battle sequence.
+**Hard Head:** Chaos Dwarfs ignore the special rules for clubs, maces, etc.
+
+**Armour:** Chaos Dwarfs never suffer movement penalties for wearing armour.
+
+**Servants of the Dark Father:** This warband counts as a Chaos warband for the purposes of Exploration chart and random-encounter results that allow stragglers, prisoners and the like to be sacrificed for Experience.
+
+**Chaos Armour:** Chaos Dwarf warbands may never acquire or wear Chaos Armour — their smiths work obsidian and brass, not the gifts of lesser gods.
+
+**Hired Swords:** Ogre Bodyguard, Pit Fighter, Warlock, Imperial Assassin, Hobgoblin Scout; anything described as *all may hire* or allowed to Orc or Chaos warbands. Never Elves.
+
+---
+
+## The Offering
+
+Once per post-battle sequence, before selling wyrdstone, the warband may sacrifice **one shard** upon its brazier-altar. A shard fed to the Brazen Bull's *Hungering Furnace* counts as this sacrifice — the daemon's feeding is itself an offering to Hashut, and the warband need not burn a second shard.
+
+Roll a D6 and apply the modifiers below, then consult the table. Modifiers apply only to the Offering made in the same post-battle sequence; they do not carry over. Maximum +2.
+
+- **+1** if an enemy Hero was **Branded** this battle (see Brand-iron; regardless of how many were Branded).
+- **+1** if the Bull Centaur made a **Trampling Offering** this battle (see Bull Centaur).
+
+| D6 | Hashut's Answer |
+|---|---|
+| 1–2 | **Silence from Hashut.** Nothing happens. The Father of Darkness is unmoved. |
+| 3 | **Guided Bargains.** +1 on one roll to find a rare item this post-battle sequence. |
+| 4 | **Helforged Blessing.** Choose one Hero's close-combat weapon. It may re-roll one failed to-wound roll during the next battle. Once used, the blessing is spent. |
+| 5 | **Whispered Secrets.** The Sorcerer may re-roll one failed casting attempt during the next battle. The new result stands. |
+| 6+ | **Hashut's Reward.** +D3 Experience, distributed as evenly as possible among the warband's Heroes. |
+
+---
+
+## Choice of Warriors
+
+A Brazen Tithe warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of warriors in the warband may never exceed 15.
+
+- **Sorcerer:** Each warband must include one Sorcerer — no more, no less.
+- **Bull Centaur:** Your warband may include one Bull Centaur.
+- **Taskmasters:** Your warband may include up to two Taskmasters.
+- **Daemonsmith:** Your warband may include one Daemonsmith.
+- **Chaos Dwarfs:** Your warband may include up to five Chaos Dwarfs.
+- **Wretches:** Your warband may include any number of Wretches.
+- **Brazen Bull:** Your warband may include one Brazen Bull.
+
+---
+
+## Starting Experience
+
+**Sorcerer** 20 · **Bull Centaur** 10 · **Taskmasters** 8 · **Daemonsmith** 0 · **Henchmen** 0
+
+---
+
+## Maximum Characteristics
+
+| Profile | M | WS | BS | S | T | W | I | A | Ld |
+|---|---|---|---|---|---|---|---|---|---|
+| Chaos Dwarf | 3 | 7 | 6 | 4 | 5 | 3 | 5 | 4 | 10 |
+| Bull Centaur | 8 | 7 | 6 | 5 | 5 | 4 | 6 | 5 | 10 |
+
+Wretches are a mixture of lesser races and half-breeds: use the maximum characteristics for Humans.
 
 ---
 
 ## Heroes
 
 ### Sorcerer
-<span class="unit-meta">Hero · 0–1 · Leader · Wizard · 85 gc · Starting XP: 20</span>
+<span class="unit-meta">Hero · Leader · 0–1 · 85 gc · Starting XP: 20</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>9</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Leader · Wizard (Rituals of Hashut) · Hard to Kill · Hard Head · Armour · Stone Body · Servants of the Dark Father</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, mace, axe, sword, pistol, brace of pistols, blunderbuss, handgun · Light Armour, Heavy Armour, helmet</p>
+A Priest of Hashut whose ambition burns hotter than any furnace. Posting a Sorcerer to a Prospect is no exile — it is a proving ground, and every soul seared and every offering given to the flames is tallied by the Father of Darkness.
 
----
+**Weapons/Armour:** Chosen from the Chaos Dwarf Equipment list. As a spellcaster, the Sorcerer may never wear armour of any kind. He may carry Brazen Greaves.
 
-### Taskmaster
-<span class="unit-meta">Hero · 0–2 · 50 gc · Starting XP: 8</span>
+<p class="unit-rules"><strong>Special Rules</strong></p>
 
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>8</td></tr></tbody>
-</table>
+**Leader:** Any warrior within 6" of the Sorcerer may use his Leadership when taking Leadership tests.
 
-<p class="unit-rules"><strong>Special rules</strong> Dreaded Overseers · Crack the Whip · Hard to Kill · Hard Head · Armour</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, mace, hammer, axe, spear, sword, steel whip, halberd, double-handed weapon, brand-iron · Pistol, brace of pistols, blunderbuss, handgun · Light Armour, Heavy Armour, shield, helmet, Obsidian Armour</p>
+**Wizard:** The Sorcerer follows the rules for wizards and casts Rituals of Hashut. He always knows *Helforged Wrath*, and rolls once on the Rituals of Hashut table for a second spell at the start of the campaign.
 
 ---
 
@@ -68,90 +117,352 @@ The Brazen Tithe are servants of Hashut, Father of Darkness — a warband of iro
 <tbody><tr><td>8</td><td>4</td><td>3</td><td>4</td><td>4</td><td>1</td><td>3</td><td>2</td><td>9</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Large Target · Hashut's Anointed · Hard to Kill · Hard Head · Armour</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, mace, hammer, axe, spear, sword, halberd, double-handed weapon · Light Armour, Heavy Armour, shield, helmet, Obsidian Armour</p>
+A sacred beast of the temple, the Bull God's likeness made flesh. Where the Sorcerer plans and the Taskmasters drive, the Bull Centaur simply kills — and Hashut watches, and is pleased.
+
+**Weapons/Armour:** Chosen from the Chaos Dwarf Equipment list. May never use missile weapons.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Large Target:** +1 to hit when shot at; may be targeted even if not the closest model; adds +20 to the warband's rating.
+
+**Hashut's Anointed:** The Bull Centaur is a sacred beast of the temple, the Bull God's likeness made flesh. If it takes an enemy Hero *out of action* in a turn in which it charged, it has made a **Trampling Offering** — the warband gains +1 to its Offering roll this post-battle sequence.
+
+---
+
+### Taskmasters
+<span class="unit-meta">Hero · 0–2 · 50 gc each · Starting XP: 8</span>
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>8</td></tr></tbody>
+</table>
+
+A Taskmaster is the operational backbone of the Prospect: the enforcer, the overseer, and the one the Wretches truly fear. Steel whip in hand, they keep the pack-train moving and the slaves working.
+
+**Weapons/Armour:** Chosen from the Chaos Dwarf Equipment list. Steel whips and Brand-irons may be carried by Taskmasters only.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Dreaded Overseers:** Taskmasters cause *fear* in Humans.
+
+**Crack the Whip:** A Taskmaster is the only model that can drive Wretches to fight (see *Under the Lash*). While the Taskmaster is not knocked down or stunned, friendly Wretches within 6" of him may use his Leadership for any Leadership test they are required to take.
 
 ---
 
 ### Daemonsmith
-<span class="unit-meta">Hero · 0–1 · 45 gc · Starting XP: 0</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>3</td><td>3</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>7</td></tr></tbody>
-</table>
-
-<p class="unit-rules"><strong>Special rules</strong> Hellfire · Stupidity (if Sorcerer is out of action) · Hard to Kill · Hard Head · Armour</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, mace, hammer, axe, sword · Pistol, brace of pistols, blunderbuss, handgun · Light Armour, Heavy Armour, helmet, Obsidian Armour</p>
-
----
-
-## Henchmen
-
-### Chaos Dwarfs
-<span class="unit-meta">Henchman · 0–5 · 35 gc each · Gains XP</span>
+<span class="unit-meta">Hero · 0–1 · 30 gc · Starting XP: 0</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>3</td><td>3</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>8</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Hard to Kill · Hard Head · Armour</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, mace, hammer, axe, spear, sword, halberd · Pistol, brace of pistols, blunderbuss · Light Armour, Heavy Armour, shield, helmet</p>
+*A junior daemonsmith earning his scars — cheap for a Dwarf, and quick to learn.*
+
+**Weapons/Armour:** Chosen from the Chaos Dwarf Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Keeper of the Bull:** The Brazen Bull only tests for *Stupidity* when no standing Daemonsmith is within 6" (see *Bound Daemon*).
+
+**Master Gunsmith:** Once per turn, while the Daemonsmith is on the table and not knocked down, stunned or *out of action*, the warband may re-roll one result on the misfire chart. A re-roll may never be re-rolled, and the new result stands.
+
+**Tinker:** +2 on rolls to acquire Obsidian Armour, Obsidian Weapons or Brazen Greaves.
+
+---
+
+## Henchmen
+
+*(Bought in groups of 1–5)*
+
+### Chaos Dwarfs
+<span class="unit-meta">Henchman · 0–5 · 40 gc</span>
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>8</td></tr></tbody>
+</table>
+
+Stocky, deliberate and utterly without pity. Chaos Dwarf warriors are the professional core of every Prospect — experienced soldiers who understand that patience and iron discipline are the qualities Hashut rewards.
+
+**Weapons/Armour:** Chosen from the Chaos Dwarf Equipment list.
+
+**Special Rules:** Hard to Kill · Hard Head · Armour
 
 ---
 
 ### Wretches
-<span class="unit-meta">Henchman · 0+ · 15 gc each · Gains XP · Do not count toward warband maximum</span>
+<span class="unit-meta">Henchman · Any number · 15 gc</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>2</td><td>2</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>6</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Expendable · Contemptible</p>
-<p class="unit-equip"><strong>Equipment</strong> Dagger, club, spear, shortbow</p>
+Goblins, hobgoblins, broken men and stranger things, enslaved along the road and lashed into hauling ore, digging assay-pits and dying first. Wretches are aware of their situation. They are not happy about it. Their opinions are not being solicited.
+
+**Weapons/Armour:** Chosen from the Wretch Equipment list only.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Drudgery:** Wretches may never become Heroes. Re-roll any 'The lad's got talent' results. The warband special rules (Hard to Kill, Hard Head, Armour, Servants of the Dark Father) do not apply to them.
+
+**Under the Lash:** Wretches fight only from terror of the lash, never courage. A Wretch may not declare a charge, nor voluntarily move toward the nearest enemy, unless it either begins its movement within 6" of a friendly **Taskmaster**, or first passes a Leadership test. No other model can drive them — a Wretch out of a Taskmaster's reach is on its own, and knows it.
 
 ---
 
 ### Brazen Bull
-<span class="unit-meta">Henchman · 0–1 · 175 gc · Does not gain XP · Animal</span>
+<span class="unit-meta">Henchman · 0–1 · 200 gc · No XP · Rating +20</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>6</td><td>3</td><td>0</td><td>5</td><td>5</td><td>3</td><td>2</td><td>3</td><td>4</td></tr></tbody>
+<tbody><tr><td>4</td><td>3</td><td>—</td><td>5</td><td>5</td><td>3</td><td>2</td><td>2</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Cause Fear · Large Target · Immune to Poison · Immune to Fear · Hard to Kill · Mechanical · Flaming Attacks</p>
-<p class="unit-equip"><strong>Equipment</strong> None (natural weapons)</p>
+*A daemon bound into a bull-shaped furnace-idol of black iron. It is not a pet.*
+
+**Weapons/Armour:** None. The Brazen Bull may never be given weapons, armour or equipment of any kind.
+
+**Save:** 5+ armour save, modifiable by Strength as normal.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Daemonic Engine:** Gains no Experience; immune to poison; immune to fear; causes *fear*; *Large Target* (+1 to hit when shot at, may be targeted even if not the closest model, +20 to warband rating). Counts as one model toward the warband maximum.
+
+**Living Furnace:** The Bull's close-combat attacks count as **magical, flaming** attacks.
+
+**Furnace Maw:** An innate missile attack fired in the Shooting phase, following all normal shooting rules — requires line of sight; may not target *Hidden* models. Range 8", Strength 4, counts as a **magical, flaming** attack. Always hits on a **fixed 5+**: Ballistic Skill and all to-hit modifiers are ignored, for better and worse. Not a move-or-fire weapon.
+
+**Daemonic Fury:** When the Bull loses its first wound, the daemon within rages against its bindings. The Bull immediately gains **+1 Attack and +1 Initiative for the rest of the battle**.
+
+**Bound Daemon:** At the start of the Chaos Dwarf player's turn, if there is no friendly Daemonsmith within 6" who is standing (not knocked down, stunned or *out of action*), the Bull is subject to ***Stupidity*** that turn, testing on its own Leadership.
+
+**Hungering Furnace:** After every battle in which the Brazen Bull took part, the warband must feed it one wyrdstone shard before selling the rest. This shard also counts as the warband's Offering sacrifice for the same post-battle sequence. If the warband cannot feed it, the daemon lies dormant and the Bull must miss the next battle.
+
+---
+
+## Equipment Lists
+
+### Chaos Dwarf Equipment List
+
+*Starting warbands pay the discounted prices shown for pistols and handguns — such weapons are common in Zharr-Naggrund. After warband creation, they are purchased at standard Trading Post prices and rarity.*
+
+#### Hand-to-hand Combat Weapons
+
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Mace | 3 gc |
+| Hammer | 3 gc |
+| Axe | 5 gc |
+| Spear | 10 gc |
+| Sword | 10 gc |
+| Steel Whip† | 10 gc |
+| Halberd | 10 gc |
+| Double-handed weapon | 15 gc |
+| Brand-iron† | 25 gc |
+
+#### Missile Weapons
+
+| Item | Cost |
+|---|---|
+| Pistol | 10 gc (20 gc brace) — thereafter 15 / 30 gc |
+| Blunderbuss | 30 gc |
+| Handgun | 30 gc — thereafter 35 gc |
+
+#### Armour
+
+| Item | Cost |
+|---|---|
+| Light armour | 20 gc |
+| Heavy armour | 50 gc |
+| Shield | 5 gc |
+| Helmet | 10 gc |
+
+#### Miscellaneous
+
+| Item | Cost |
+|---|---|
+| Brazen Greaves‡ | 75 gc |
+
+*†Taskmasters only · ‡Sorcerer only*
+
+---
+
+### Wretch Equipment List
+
+*Slaves are spared nothing better. They have given this a great deal of thought.*
+
+#### Hand-to-hand Combat Weapons
+
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Mace | 3 gc |
+| Axe | 5 gc |
+| Spear | 10 gc |
+
+#### Missile Weapons
+
+| Item | Cost |
+|---|---|
+| Sling | 2 gc |
+| Bow | 10 gc |
+
+#### Armour
+
+| Item | Cost |
+|---|---|
+| Shield | 5 gc |
+
+---
+
+## Skill Table
+
+| | Combat | Shooting | Academic | Strength | Speed | Special |
+|---|---|---|---|---|---|---|
+| Sorcerer | ✓ | | ✓ | ✓ | | ✓ |
+| Bull Centaur | ✓ | | | ✓ | | ✓ |
+| Taskmasters | ✓ | ✓ | | ✓ | | ✓ |
+| Daemonsmith | ✓ | ✓ | | ✓ | | ✓ |
+
+---
+
+## Chaos Dwarf Special Equipment
+
+*Available only to Chaos Dwarf warbands.*
+
+### Steel Whip — 10 gc
+**Availability:** Common · Taskmasters only
+
+*A length of barbed steel chain, kept hot from proximity to the Brazen Bull's exhaust-vents. Or just naturally unpleasant. Hard to say.*
+
+**Range:** Close Combat · **Strength:** As user · **Special Rules:** Cannot be Parried, Whipcrack
+
+**Cannot be Parried:** A model attacked by a Steel Whip may not make parries with swords or bucklers.
+
+**Whipcrack:** When the wielder charges, they gain +1A for that turn. When the wielder is charged, they gain +1A that may only be used against the charger, and this attack *strikes first*. If charged simultaneously by two or more opponents, only +1A is gained in total.
+
+---
+
+### Brand-iron — 25 gc
+**Availability:** Rare 8 · Taskmasters only
+
+*A bull-headed iron kept furnace-hot by smouldering runes. It has never been used for branding cattle.*
+
+**Range:** Close Combat · **Strength:** As user +2 · **Special Rules:** Two-handed, Strikes Last, Flaming attacks, Sear the Soul
+
+**Sear the Soul:** An enemy **Hero** taken *out of action* by an attack made with the Brand-iron is **Branded** with the sign of Hashut. The warband gains +1 to its Offering roll this post-battle sequence (regardless of how many Heroes were Branded that battle). The victim rolls Serious Injuries as normal but permanently gains *hatred* of all members of this Chaos Dwarf warband **except its Wretches**. Note Branded Heroes on both rosters.
+
+---
+
+### Obsidian Weapons — 4× base cost
+**Availability:** Rare 9 · Chaos Dwarf Heroes only
+
+*Edges of volcanic glass quenched in daemon-fire hold a keenness no mortal steel can match — but the heavy, brittle blades must be swung with murderous deliberation.*
+
+Only **swords, maces, hammers and axes** may be forged in obsidian: obsidian sword 40 gc · obsidian mace or hammer 12 gc · obsidian axe 20 gc.
+
+**Hell-glassed Edge:** An obsidian weapon grants **+1 Strength** in addition to the weapon's normal rules.
+
+**Strikes Last:** A model using an obsidian weapon always strikes last in combat, as for a double-handed weapon.
+
+---
+
+### Obsidian Armour — 85 gc
+**Availability:** Rare 13 · Chaos Dwarf Heroes only (not the Sorcerer)
+
+*Plates of volcanic glass quenched in daemon-fire — lighter and more resilient than mortal steel, and utterly impervious to the fires of lesser smiths.*
+
+**Glassed in Fire:** Obsidian Armour grants a **4+ armour save** and imposes no movement penalty. It may be combined with a shield and helmet as normal, but never with other body armour. The wearer **suffers no wounds from flaming attacks**.
+
+---
+
+### Brazen Greaves — 75 gc
+**Availability:** Rare 11 · Sorcerer only
+
+*The Curse of Stone takes every Priest of Hashut from the feet up. Daemonsmiths forge brass leg-frames, quickened by minor sprites of flame, that carry the calcifying Sorcerer faster than he ever walked. The Greaves are not armour — merely a machine that walks.*
+
+**Quickened Brass:** The Sorcerer receives **+3 Movement**. The Greaves may not be combined with any other item or effect that modifies Movement.
+
+---
+
+## Chaos Dwarf Special Skills
+
+*Chaos Dwarfs may use the following list instead of the standard skill lists.*
+
+### Extra Tough
+When rolling on the Heroes Serious Injury chart after a game in which this Hero was taken *out of action*, the dice may be re-rolled once. The second result stands, even if worse.
+
+### Thick Skull
+3+ save on a D6 to avoid being *stunned* (treat as knocked down instead). 2+ if also wearing a helmet (replaces the normal helmet rule).
+
+### Resource Hunter
+When rolling on the Exploration chart at the end of a game, this Hero may modify one dice roll by +1 or −1.
+
+### Tyrant
+*Leader only.* The leader may re-roll any failed Rout test while he is not knocked down or stunned. The new result stands. If the leader is taken *out of action*, the warband tests immediately.
+
+### True Grit
+When rolling on the Injury table for this Hero, treat 1–3 as knocked down, 4–5 as stunned, 6 as *out of action*.
+
+### Stone Body
+*Sorcerer only.* The Curse of Stone has spread through the Priest's flesh, and he has learned to embrace it. The Sorcerer has a natural save of **5+**, or **4+ against magical attacks**, modifiable by Strength as normal. This is not armour and does not prevent spellcasting. It is never combined with a worn armour save — use the better of the two.
+
+### Hellpowder
+*Daemonsmith only.* The Daemonsmith mills his own powder, cut with ground wyrdstone and quenched daemon-ash. While he is part of the warband, all blackpowder weapons — pistols, blunderbusses and handguns — used by its members count as **flaming** attacks.
 
 ---
 
 ## Rituals of Hashut
 
-The Sorcerer may use spells from the Rituals of Hashut spell list. Roll for spells as per normal wizard rules.
+*Dark sorcery of fire and ash. The Sorcerer always knows* Helforged Wrath *and rolls once on the D6 table below for a second spell at the start of the campaign.*
 
-| D6 | Spell | Difficulty | Effect |
-|----|-------|-----------|--------|
-| 1 | Helforged Wrath | Auto | The Sorcerer may always use this spell. |
-| 2 | Ash Storm | 8+ | — |
-| 3 | Word of Hashut | 9+ | — |
-| 4 | Flames of Hashut | 9+ | — |
-| 5 | Burning Wrath | 10+ | — |
-| 6 | Pillar of Fire | 11+ | — |
+### Helforged Wrath
+*Casting difficulty: 8+*
 
-*Spell effect details are tracked in the Quartermaster app.*
+*The Sorcerer breathes furnace-heat into a comrade's blade.*
 
----
+Choose one friendly model within 6", or the Sorcerer himself. Until the start of the Sorcerer's next turn, one close-combat weapon carried by that model gains **+1 Strength**. May not be cast on ranged weapons.
 
-## Special Equipment
+### 1. Spirit of Hashut
+*Casting difficulty: 9+*
 
-**Brand-iron** (25 gc · Rare 8) — Taskmasters only. S+2, Two-handed, Strikes Last, Flaming attacks. *Sear the Soul:* enemy Hero taken out of action gains permanent Hatred of this warband; warband gains +1 to Offering roll.
+*The air thickens into a billowing avatar of the Bull-God, rolling forward and trampling all before it.*
 
-**Steel Whip** (10 gc) — Taskmasters only. Counts as a club. *Crack the Whip:* friendly Wretches within 6" of a Taskmaster with a steel whip may re-roll failed Leadership tests.
+Draw a line 12" from the Sorcerer. All models crossed by the line suffer one **Strength 3** hit.
 
-**Obsidian Armour** (85 gc · Rare 13) — Heroes only (not Sorcerer). 4+ armour save. No movement penalty. Immune to flaming attacks. May not be combined with other body armour.
+### 2. Bellow of Doom
+*Casting difficulty: 8+*
 
-**Mechanical Suit** (175 gc starting / 225 gc later) — Sorcerer only. Grants +1 Toughness and +1 Wound.
+*Smoke and flame spills from the Sorcerer's maw as he lets loose a deafening roar that none may endure.*
 
-**Stone Mantle** (35 gc · Rare 11) — Sorcerer only. +3 Movement. May not combine with other movement modifiers.
+All models in base contact with the Sorcerer must make an immediate Leadership test. Any that fail break from combat and flee 2D6" directly away from the Sorcerer, exactly as if they had lost their nerve when fighting against more than one opponent.
+
+### 3. Fumes of Azgorh
+*Casting difficulty: 7+*
+
+*Clouds of black gas erupt from the Sorcerer's gaping jaws in a corrosive wave.*
+
+Choose one model within 8". It is automatically hit and suffers a **Strength 4** hit with no armour save allowed.
+
+### 4. Flickering Hide
+*Casting difficulty: 8+*
+
+*With eldritch power the target begins to burn from within, his skin spitting sparks wherever a blow lands.*
+
+The Sorcerer may cast this spell upon himself or any one model within 6". Until the start of the Sorcerer's next turn, any model that strikes the target in close combat suffers one **Strength 3** hit — once per combat phase, regardless of the number of attacks made.
+
+### 5. Lava Flow
+*Casting difficulty: 7+*
+
+*The Sorcerer melts into molten magma, burning into the earth and reappearing elsewhere.*
+
+The Sorcerer may move 12" in any direction, even into combat, counting as a charge. He may only reappear on or below ground level.
+
+### 6. Earthquake
+*Casting difficulty: 10+*
+
+*Arms raised, the Sorcerer brings his staff crashing down. The earth splits asunder.*
+
+All models within 3" of the Sorcerer, friend or foe alike, must roll equal to or under their Initiative or suffer a **Strength 5** hit.
