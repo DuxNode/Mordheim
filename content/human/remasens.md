@@ -6,20 +6,34 @@ tags:
 grade: 1b
 ---
 
-*Background for Remasens — to be written.*
+<div class="warband-status grade-1b">Grade 1b — Town Cryer #14 (Tilean city-state variant)</div>
+
+**Source:** Town Cryer #14 · **Setting:** Lustria / Cities of Gold
+
+Remasens is one of the three Tilean city-states fielded in the Cities of Gold campaign setting. The Remasens share the same unit profiles and equipment as their counterparts from Miraglean and Trantio, but carry an old hatred of Dark Elves and are renowned for the resolute leadership of their officers.
+
+---
+
+## Special Rules
+
+**Hatred of Dark Elves:** When fighting Dark Elves, the player may re-roll any Rout test one time and must abide by the second roll.
+
+**Resolute Officers:** The Leadership of the Captain, Champion, and Youngblood are always one point higher than the values listed, regardless of whom they are fighting.
+
+**Hired Swords:** Remasens cannot hire Dark Elf Hired Swords.
 
 ---
 
 ## Choice of Warriors
 
-Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
+A Tilean warband must include a minimum of three models. You have 500 gold crowns. The maximum number of warriors in the warband may never exceed 15.
 
-- **Captain:** 1 (required)
-- **Champion:** 0–2
-- **Youngblood:** 0–2
-- **Warriors:** groups of up to 5
-- **Duellists:** groups of up to 5
-- **Marksmen:** groups of up to 7
+- **Captain:** Each warband must have one Captain: no more, no less.
+- **Champions:** Your warband may include up to two Champions.
+- **Youngbloods:** Your warband may include up to two Youngbloods.
+- **Warriors:** Your warband may include any number of Warriors.
+- **Marksmen:** Your warband may include no more than seven Marksmen.
+- **Duellists:** Your warband may include no more than five Duellists.
 
 ---
 
@@ -33,10 +47,17 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 <tbody><tr><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>4</td><td>2</td><td>8</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Leader</p>
-<p class="unit-equip"><strong>Warband equipment</strong> Pike (12 gc), Rapier (15 gc), Duelling pistol (25 gc)</p>
+*(Leadership shown as base value; the Resolute Officers rule adds +1 in all situations.)*
 
-### Champion
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Leader:** Any warrior within 6" of the Captain may use his Leadership characteristic when taking Leadership tests.
+
+---
+
+### Champions
 <span class="unit-meta">Hero · 0–2 · 35 gc · Starting XP: 8</span>
 
 <table class="statblock">
@@ -44,52 +65,162 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 <tbody><tr><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>4</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-equip"><strong>Warband equipment</strong> Pike (12 gc), Rapier (15 gc), Duelling pistol (25 gc)</p>
+*(Leadership shown as base value; the Resolute Officers rule adds +1 in all situations.)*
 
-### Youngblood
-<span class="unit-meta">Hero · 0–2 · 15 gc</span>
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Equipment list.
+
+---
+
+### Youngbloods
+<span class="unit-meta">Hero · 0–2 · 15 gc · Starting XP: 0</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>2</td><td>2</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>6</td></tr></tbody>
 </table>
 
-<p class="unit-equip"><strong>Warband equipment</strong> Pike (12 gc), Rapier (15 gc), Duelling pistol (25 gc)</p>
+*(Leadership shown as base value; the Resolute Officers rule adds +1 in all situations.)*
+
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Equipment list.
 
 ---
 
 ## Henchmen
 
+*(Bought in groups of 1–5)*
+
 ### Warriors
-<span class="unit-meta">Henchman · 0–5 per group · 25 gc</span>
+<span class="unit-meta">Henchman · any number · 25 gc</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-equip"><strong>Warband equipment</strong> Pike (12 gc), Rapier (15 gc), Duelling pistol (25 gc)</p>
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Equipment list.
+
+---
+
+### Marksmen
+<span class="unit-meta">Henchman · 0–7 · 25 gc</span>
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
+</table>
+
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Marksman Equipment list.
+
+---
 
 ### Duellists
-<span class="unit-meta">Henchman · 0–5 per group · 35 gc</span>
+<span class="unit-meta">Henchman · 0–5 · 35 gc</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>4</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Cloak & Dagger</p>
-<p class="unit-equip"><strong>Warband equipment</strong> Pike (12 gc), Rapier (15 gc), Duelling pistol (25 gc)</p>
+**Weapons/Armour:** May be equipped with weapons and armour from the Tilean Equipment list.
 
-### Marksmen
-<span class="unit-meta">Henchman · 0–7 per group · 25 gc</span>
+<p class="unit-rules"><strong>Special Rules</strong></p>
 
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
-</table>
+**Cloak & Dagger:** Duellists are skilled in the art of the duel and may parry with a dagger as well as a sword or buckler.
 
-<p class="unit-equip"><strong>Warband equipment</strong> Duelling pistol (25 gc)</p>
+---
+
+## Equipment Lists
+
+### Tilean Equipment List
+
+#### Hand-to-hand Combat Weapons
+
+| Item                 | Cost          |
+|----------------------|---------------|
+| Dagger               | 1st free / 2 gc |
+| Mace                 | 3 gc          |
+| Hammer               | 3 gc          |
+| Axe                  | 5 gc          |
+| Sword                | 10 gc         |
+| Spear                | 10 gc         |
+| Halberd              | 10 gc         |
+| Morning star         | 15 gc         |
+| Double-handed weapon | 15 gc         |
+| Rapier               | 15 gc (Rare 5) |
+| Pike                 | 12 gc (Rare 7) |
+
+#### Missile Weapons
+
+| Item            | Cost                |
+|-----------------|---------------------|
+| Crossbow        | 25 gc               |
+| Pistol          | 15 gc (30 gc brace) |
+| Bow             | 10 gc               |
+| Duelling Pistol | 25 gc (50 gc brace) |
+
+#### Armour
+
+| Item         | Cost  |
+|--------------|-------|
+| Shield       | 5 gc  |
+| Buckler      | 10 gc |
+| Helmet       | 10 gc |
+| Light armour | 20 gc |
+
+---
+
+### Tilean Marksman Equipment List
+
+#### Hand-to-hand Combat Weapons
+
+| Item   | Cost          |
+|--------|---------------|
+| Dagger | 1st free / 2 gc |
+| Mace   | 3 gc          |
+| Hammer | 3 gc          |
+| Axe    | 5 gc          |
+| Sword  | 10 gc         |
+
+#### Missile Weapons
+
+| Item            | Cost                |
+|-----------------|---------------------|
+| Crossbow        | 25 gc               |
+| Pistol          | 15 gc (30 gc brace) |
+| Bow             | 10 gc               |
+| Long Bow        | 15 gc               |
+| Handgun         | 35 gc               |
+| Hunting Rifle   | 200 gc              |
+| Duelling Pistol | 25 gc (50 gc brace) |
+
+#### Armour
+
+| Item         | Cost  |
+|--------------|-------|
+| Helmet       | 10 gc |
+| Light armour | 20 gc |
+
+---
+
+## Special Equipment
+
+### Pike — 12 gc (Rare 7)
+**Range:** Close Combat · **Strength:** As user
+
+**Strike First When Charged:** The Pike strikes first even against models with spears when the user is charged.
+
+**Long Polearm:** May attack enemies up to 3" away.
+
+**Unwieldy:** The user may only make 1 Attack with this weapon; it cannot be used in combination with any other weapon.
+
+**Large Only:** Cannot be used by Small models.
+
+---
+
+### Rapier — 15 gc (Rare 5)
+**Range:** Close Combat · **Strength:** As user
+
+**Parry:** The user may parry with a Rapier as they would with a sword or buckler.
 
 ---
 
@@ -97,16 +228,6 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 
 | | Combat | Shooting | Academic | Strength | Speed |
 |---|---|---|---|---|---|
-| Captain | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Champion | ✓ |  | ✓ | ✓ |  |
-| Youngblood | ✓ |  | ✓ |  | ✓ |
-
----
-
-<!-- _review (not shown on site):
-  - Setting: Lustria / Cities of Gold. Source: Town Cryer #14. Grade-1b. One of the three Tilean city-state variants (shares the Tilean roster & equipment lists).
-  - Remasen special rules (player-enforced; QM cannot represent): may re-roll ONE rout test per game when fighting Dark Elves (must accept second roll); Captain/Champion/Youngblood Leadership is permanently +1 (QM cannot raise hero Ld - apply manually); Hired Swords - cannot take Dark Elf Hired Swords.
-  - Skill tables encoded per the mordheimer.net Tilean table (Jun 2026): Captain C/Sh/Ac/St/Sp; Champion C/Ac/St; Youngblood C/Ac/Sp.
-  - Equipment = standard Tilean lists: Duelling pistol 25gc (50 brace per source); Pike 12gc Rare 7 (Strike first when charged / Long polearm / Unwieldy / Large only); Rapier 15gc (Parry).
-  - Marksmen I3 as printed on mordheimer.net (possible source error; used as printed).
--->
+| Captain    | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Champion   | ✓ |   |   | ✓ |   |
+| Youngblood | ✓ |   |   |   | ✓ |

@@ -6,27 +6,35 @@ tags:
 grade: 1b
 ---
 
-*Background for Amazons (Mordheim) — to be written.*
+<div class="warband-status grade-1b">Grade 1b — included in Australis 2027</div>
+
+**Source:** Town Cryer #23 · **Setting:** Mordheim
+
+For the mysterious Amazons brought to the damned city in chains, escape is all that they seek. These fierce warrior women from far across the Great Western Ocean originate from Norse Valkyries who settled Lustria generations ago, adopting the trappings of the Lizardman culture they found in the ruins of an island stronghold. Needless to say, they now bear scant resemblance to proper Norse Valkyries — and the rumour that they have discovered a strange tropical drug giving them everlasting youth alone has attracted many would-be raiders to their stronghold.
+
+In recent years, raiders pillaged the Amazon temples and enslaved much of the population. Before the comet struck Mordheim, Count Steinhardt purchased several hundred Amazons from Tilean slavers. During lavish parties, the Count's Amazon harem performed an exotic dance so mesmerising that many were able to escape into the surrounding countryside. These fugitives have since formed warbands, recovering wyrdstone to sell in an attempt to pay for safe passage back to their homeland.
 
 ---
 
-## Special Rules & Faction Abilities
+## Special Rules
 
-### Amazon Rituals
+**Sacrifice:** The Amazons follow the rules for Possessed when it comes to captives.
 
-*Amazon Rituals — rules to be written.*
+**Not one of us:** The Amazons may not have any Hired Swords or Dramatis Personae unless they are actually Amazons themselves.
 
 ---
 
 ## Choice of Warriors
 
-Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
+An Amazon warband must include a minimum of three models. You have 500 gold crowns to recruit your initial warband. The maximum number of models in the warband is 15.
 
-- **Priestess:** 1 (required)
-- **Champions:** 0–2
-- **Totem Warriors:** 0–2
-- **Amazon Warriors:** any number
-- **Scouts:** groups of up to 3
+Although outsiders consider the Amazons to be immortal, the maximum characteristics for each type are the same as any other human warband.
+
+- **Priestess:** Each Amazon warband must have one Priestess to lead it — no more, no less.
+- **Champions:** Your warband may include up to two Champions.
+- **Totem Warriors:** Your warband may include up to two Totem Warriors.
+- **Amazon Warriors:** Purchased in groups of 1–5 (you must have at least 1 warrior in your Warband).
+- **Scouts:** Your Warband may include up to three Scouts.
 
 ---
 
@@ -40,11 +48,19 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 <tbody><tr><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>4</td><td>1</td><td>8</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Leader · Sacrifice · Not One Of Us</p>
-<p class="unit-rules"><strong>Magic</strong> Amazon Rituals</p>
-<p class="unit-equip"><strong>Warband equipment</strong> Claw of the old ones (30 gc), Sunstaff (50 gc), Sun gauntlet (40 gc)</p>
+Priestesses are part of the religious sisterhood that rules Amazon society. They are powerful sorceresses and their word is law. The younger, more junior members often gather war parties to search for Slann artefacts and conduct ritual sacrifices of captured enemies.
 
-### Champions
+**Weapons/Armour:** The Priestess may be equipped with weapons chosen from the Heroine's Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Leader:** Any models in the warband within 6" of the Priestess may use her Leadership instead of their own.
+
+**Wizard:** The Priestess is a Wizard and may use Amazon Rituals. She starts with one ritual chosen at random from the list.
+
+---
+
+### Champion
 <span class="unit-meta">Hero · 0–2 · 35 gc · Starting XP: 8</span>
 
 <table class="statblock">
@@ -52,9 +68,13 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 <tbody><tr><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-equip"><strong>Warband equipment</strong> Claw of the old ones (30 gc), Sunstaff (50 gc), Sun gauntlet (40 gc)</p>
+Champions are veterans that have participated in dozens of war parties. They are the right-hand warriors to the Priestesses and also act as their bodyguards, skilled in fighting with a variety of different weapons including the legendary Claws of the Old Ones.
 
-### Totem Warriors
+**Weapons/Armour:** Champions may be equipped with weapons chosen from the Heroines and special equipment lists.
+
+---
+
+### Totem Warrior
 <span class="unit-meta">Hero · 0–2 · 30 gc · Starting XP: 8</span>
 
 <table class="statblock">
@@ -62,33 +82,184 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 <tbody><tr><td>4</td><td>4</td><td>2</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Frenzy</p>
-<p class="unit-equip"><strong>Warband equipment</strong> Claw of the old ones (30 gc), Sunstaff (50 gc), Sun gauntlet (40 gc)</p>
+There is a peculiar sect within Amazon society that attracts the most bloodthirsty, unhinged members of the population. These sisters are feared and revered in equal measure — the Totem Warriors — Amazons who follow animal totems and adorn themselves in the skins and feathers of their patron gods. Before battle they imbibe quantities of psychedelic herbs and enter a kill-frenzy.
+
+**Weapons/Armour:** Totem Warriors may be equipped with weapons chosen from the Heroines and special equipment lists.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Frenzy:** Totem Warriors are utterly fanatical, blood-crazed individuals, totally out of their heads on dangerous herbal concoctions. They are subject to the rules for Frenzy.
 
 ---
 
 ## Henchmen
 
+*(Bought in groups of 1–5)*
+
 ### Amazon Warriors
-<span class="unit-meta">Henchman · 25 gc</span>
+<span class="unit-meta">Henchwoman · any number · 25 gc</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-equip"><strong>Warband equipment</strong> Sling (5 gc)</p>
+Every Amazon woman is trained in the ways of warfare from birth and hardened by life in the unforgiving jungle. On the shattered streets of Mordheim, things are hardly different — they have simply traded dense jungle undergrowth for broken buildings and rubble.
+
+**Weapons/Armour:** Amazon Warriors may be equipped with weapons chosen from the Henchwomen's equipment list.
+
+---
 
 ### Scouts
-<span class="unit-meta">Henchman · 0–3 per group · 30 gc</span>
+<span class="unit-meta">Henchwoman · 0–3 · 30 gc</span>
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
 <tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-<p class="unit-rules"><strong>Special rules</strong> Stealthy</p>
-<p class="unit-equip"><strong>Warband equipment</strong> Sling (5 gc), Javelins (5 gc)</p>
+Scouts are known for their exceptional speed and agility. They are just as at home stealthily picking their way through rubble-strewn streets and hiding in ruins to set up ambushes.
+
+**Weapons/Armour:** Scouts can be armed with weapons and armour chosen from the Scout Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Stealthy:** A Scout may deploy twice the distance onto the battlefield than other warriors and may start the battle Hiding.
+
+---
+
+## Equipment Lists
+
+### Heroines Equipment List
+
+#### Hand-to-hand Combat Weapons
+
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Club | 3 gc |
+| Sword | 10 gc |
+| Spear | 10 gc |
+| Claw of the Old Ones | 30 gc |
+
+#### Missile Weapons
+
+| Item | Cost |
+|---|---|
+| Sunstaff | 50 gc |
+| Sun Gauntlet | 40 gc |
+
+#### Armour
+
+| Item | Cost |
+|---|---|
+| Buckler | 5 gc |
+| Helmet | 10 gc |
+
+#### Miscellaneous
+
+| Item | Cost |
+|---|---|
+| Amulet of the Moon | 50 gc |
+| Healing Herbs | 35 gc |
+
+---
+
+### Henchwomen Equipment List
+
+#### Hand-to-hand Combat Weapons
+
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Club | 3 gc |
+| Sword | 10 gc |
+| Spear | 10 gc |
+
+#### Missile Weapons
+
+| Item | Cost |
+|---|---|
+| Sling | 5 gc |
+| Bow | 10 gc |
+
+#### Armour
+
+| Item | Cost |
+|---|---|
+| Buckler | 5 gc |
+| Helmet | 10 gc |
+
+---
+
+### Scout Equipment List
+
+#### Hand-to-hand Combat Weapons
+
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Club | 3 gc |
+| Sword | 10 gc |
+| Spear | 10 gc |
+
+#### Missile Weapons
+
+| Item | Cost |
+|---|---|
+| Sling | 5 gc |
+| Javelins | 5 gc |
+| Bow | 10 gc |
+
+#### Armour
+
+| Item | Cost |
+|---|---|
+| Buckler | 5 gc |
+| Helmet | 10 gc |
+
+---
+
+## Special Equipment
+
+### Claw of the Old Ones — 30 gc (Rare 12)
+*An ancient weapon of unknown multicoloured metal whose blade glows white hot and cuts through armour as if it were paper.*
+
+**Range:** Close Combat · **Strength:** As user +1
+
+**No Save:** A warrior wounded by the Claw receives no armour save whatsoever.
+
+**Parry:** May parry blows as a sword.
+
+### Javelins — 5 gc (Common)
+*Short throwing spears weighted for distance. Thrown weapon: no penalty for range or moving.*
+
+**Range:** 8" · **Strength:** As user
+
+### Sun Gauntlet — 40 gc (Rare 12)
+*Made from an unknown multicoloured metal impervious to damage; fires a blinding beam of energy like the Sunstaff.*
+
+**Range:** 12" · **Strength:** 4
+
+**Accurate:** Does not suffer the –1 modifier for long range.
+
+**No Save:** A warrior wounded receives no armour save whatsoever.
+
+**Hand-to-Hand:** The Sun Gauntlet can be used in close combat with Strength 4 and no armour save, once per round of combat.
+
+### Sunstaff — 50 gc (Rare 12)
+*An extraordinarily ancient long tubular staff that discharges a beam of energy akin to the rays of the sun.*
+
+**Range:** 24" · **Strength:** 4
+
+**Accurate:** Does not suffer the –1 modifier for long range.
+
+**No Save:** A warrior wounded receives no armour save whatsoever.
+
+### Amulet of the Moon — 50 gc (Rare 12)
+*Creates a shimmering aura around the Amazon.*
+
+Any missile fire at the bearer suffers –1 to hit. Also confers a 5+ special save against missile fire.
 
 ---
 
@@ -97,26 +268,22 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 | | Combat | Shooting | Academic | Strength | Speed |
 |---|---|---|---|---|---|
 | Priestess | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Champions | ✓ | ✓ |  |  | ✓ |
-| Totem Warriors | ✓ |  |  | ✓ | ✓ |
+| Champion | ✓ | ✓ | | | ✓ |
+| Totem Warrior | ✓ | | | ✓ | ✓ |
 
 ---
 
-<!-- _review (not shown on site):
-  - No special skills on any Amazon (Mordheim) hero — skill table has no Special column (confirmed source).
-  - No body armour on any unit (armour: []). Only Buckler and Helmet available.
-  - Totem Warriors: Frenzy (subject to frenzy rules). WS4 BS2 — different from Piranha Warriors (WS3 BS4).
-  - Champions: Combat/Shooting/Speed. Different from Eagle Warriors (Combat/Strength/Speed) in Lustria variant.
-  - Sunstaff (Mordheim): Range 24", S4, Accurate (no -1 long range), No Save (no armour save). Rare 12.
-  - Sun Gauntlet: Range 12", S4, Accurate, No Save, Hand-to-Hand use (S4, no save, every turn). Rare 12.
-  - Claw of the Old Ones: S as user +1, No Save, Parry. Rare 12.
-  - Amulet of the Moon: Rare 12 in this variant (vs Rare 11 in Lustria).
-  - Sacrifice: follow Possessed rules for captives. Cannot enforce in template.
-  - Not One Of Us: no Hired Swords or DP (except Amazons). Enforced via has_hired_swords: false.
-  - Scouts: Stealthy — deploy 2× normal distance, may start Hidden. Noted as Command rule.
-  - Sling: 5gc per source list (vs catalogue 2gc). Cost override applied.
-  - Wizard (Amazon Rituals): Priestess starts with one random ritual. Same ritual list as Lustria variant.
-  - weapon_upgrade: none — Amazon weapons unique; no Ithilmar/Gromril/Obsidian.
-  - v13 migration: Priestess uses Amazon Rituals (same 6-ritual list as the Lustria variant).
-  - v13 migration: Sun Gauntlet 40gc Rare 12 (Accurate/No armour save/Hand-to-hand); Sunstaff 50gc Rare 12 (Accurate/No armour save). mordheimer.net-verified.
--->
+## Amazon Rituals
+
+*Little is known about Amazon magic beyond their island home. It is said that the immortal Amazons learn their magic from the very gods themselves.*
+
+*(Shared with Amazons (Lustria) — see that page for full spell descriptions.)*
+
+| D6 | Spell | Difficulty |
+|---|---|---|
+| 1 | Singing Wind | 8+ |
+| 2 | Serpent's Strength | 9+ |
+| 3 | Wendala's Maelstrom | 7+ |
+| 4 | Shield of Thorns | 7+ |
+| 5 | The Living Jungle | 6+ |
+| 6 | Siren's Dreams | 7+ |
