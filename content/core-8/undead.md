@@ -33,6 +33,7 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Leader · Cause Fear · Immune to Psychology · Immune to Poison · No Pain (Stunned → Knocked Down)</p>
+
 ### Necromancer
 <span class="unit-meta">Hero · 0–1 · 35 gc · Starting XP: 8</span>
 
@@ -42,6 +43,7 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Wizard (Necromantic magic)</p>
+
 ### Dregs
 <span class="unit-meta">Hero · 0–3 · 20 gc · Starting XP: 0</span>
 
@@ -63,6 +65,7 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Cause Fear</p>
+
 ### Dire Wolves
 <span class="unit-meta">Henchman · 0–5 · 50 gc</span>
 
@@ -72,6 +75,7 @@ Minimum 3 models, maximum 15. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Cause Fear · Immune to Psychology · Immune to Poison · No Pain · May not Run · Charge: +1A on charge turn · No experience</p>
+
 ### Zombies
 <span class="unit-meta">Henchman · any number · 15 gc</span>
 
