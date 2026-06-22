@@ -1,5 +1,6 @@
 ---
 title: "Hobgoblin Raiders"
+draft: true
 tags:
   - Greenskins
   - Grade 1b

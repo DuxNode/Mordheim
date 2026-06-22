@@ -1,5 +1,6 @@
 ---
 title: "Knights Panther"
+draft: true
 tags:
   - Human
   - Grade 1b

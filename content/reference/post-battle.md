@@ -10,9 +10,9 @@ After each battle is over, both players work through the post-battle sequence in
 
 | Step | Action |
 |---|---|
-| 1 | **Injuries.** Determine the extent of injuries for each warrior who is out of action at the end of the game. See [[reference/injury-table\|Injury Table]]. |
+| 1 | **Injuries.** Determine the extent of injuries for each warrior who is out of action at the end of the game. See [[reference/injury-table]]. |
 | 2 | **Allocate Experience.** Heroes and Henchmen groups gain experience for surviving battles. See the Experience and Scenarios sections for amounts. |
-| 3 | **Roll on the Exploration Chart.** See [[reference/exploration-chart\|Exploration Chart]] for the procedure and results. |
+| 3 | **Roll on the Exploration Chart.** See [[reference/exploration-chart]] for the procedure and results. |
 | 4 | **Sell Wyrdstone.** This can only be done once per post-battle sequence. |
 | 5 | **Check available veterans.** Roll 2D6 to determine the total Experience worth of veterans available for hire. You do not have to commit to hiring anyone at this point. |
 | 6 | **Make rarity rolls and buy rare items.** Make rolls for any rare items you intend to buy and pay for them. Items go into the warband's stash. |

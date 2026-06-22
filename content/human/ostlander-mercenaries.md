@@ -1,5 +1,6 @@
 ---
 title: "Ostlander Mercenaries"
+draft: true
 tags:
   - Human
   - Mercenaries

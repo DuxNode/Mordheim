@@ -1,5 +1,6 @@
 ---
 title: "Averlander Mercenaries"
+draft: true
 tags:
   - Human
   - Mercenaries

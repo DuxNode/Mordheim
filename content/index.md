@@ -1,25 +1,15 @@
 ---
-title: Mordheim Australis 2027
+title: "Mordheim Australis 2027"
 ---
 
-# Mordheim Australis 2027
+Welcome to the **Mordheim Australis 2027** campaign reference — a complete rules companion for the 2027 Sydney campaign season.
 
-Welcome to the reference site for the **Mordheim Australis 2027** campaign.
+Here you'll find full warband rosters, stat blocks, special rules, spell lists, hired swords, and post-battle reference for all playable factions. Whether you're building your first warband or settling a mid-game dispute at the table, this site has what you need.
 
-Browse warbands using the navigation on the left, or use the search bar to find rules, equipment, and special rules.
+> Rules text is sourced from [mordheimer.net](https://mordheimer.net) and the Mordheim Australis 2027 campaign organisers. Built with [Quartz v4](https://quartz.jzhao.xyz/).
 
-## Warbands
+## Find what you need
 
-The site covers all warbands available for the 2027 campaign season, organised by faction.
-
-## Reference
-
-Quick-reference pages for special rules, skills, hired swords, spell lists, injury tables, and the post-battle sequence are available under **Reference**.
-
-## Campaign
-
-Current standings, house rules, and warband rosters are under **Campaign**.
-
----
-
-*Site built with [Quartz](https://quartz.jzhao.xyz). Mordheim is property of Games Workshop. All warband rules from community sources — see [Mordheimer.net](https://mordheimer.net) and [Broheim.net](https://www.broheim.net).*
+- [[core-8|Warbands]] — all playable factions, full stat blocks and equipment lists
+- [[reference/index|Reference]] — skills, spells, injuries, hired swords, and trading post
+- [[campaign/index|Campaign]] — house rules, standings, and campaign rosters

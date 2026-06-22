@@ -1,5 +1,6 @@
 ---
 title: "Dwarfs of Karak Azgal"
+draft: true
 tags:
   - Dwarfs
   - Grade 1b

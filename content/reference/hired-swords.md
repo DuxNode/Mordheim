@@ -36,8 +36,8 @@ Record the Hired Sword's name and profile in one of the Henchman group slots on 
 
 Hired Swords are organised by grade, reflecting the breadth of community-sourced content available for Mordheim Australis. Each grade page lists which warbands may hire each mercenary, their cost and upkeep, and their full rules.
 
-- **Core / Grade 1A** — Hired Swords from the Mordheim Rulebook and core Town Cryer issues. Available to most warbands. See [[reference/hired-swords-grade-1a|Grade 1A Hired Swords]].
-- **Grade 1B** — Hired Swords from later Town Cryer issues and supplements. Warband restrictions vary. See [[reference/hired-swords-grade-1b|Grade 1B Hired Swords]].
+- **Core / Grade 1A** — Hired Swords from the Mordheim Rulebook and core Town Cryer issues. Available to most warbands. Full Grade 1A profiles are catalogued on [Mordheimer.net](https://mordheimer.net).
+- **Grade 1B** — Hired Swords from later Town Cryer issues and supplements. Warband restrictions vary. Full Grade 1B profiles are catalogued on [Mordheimer.net](https://mordheimer.net).
 
 > Grade 1C and 2A hired swords appear on mordheimer.net but are not part of the Mordheim Australis 2027 campaign roster.
 
