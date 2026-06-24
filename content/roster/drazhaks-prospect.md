@@ -25,8 +25,8 @@ The warband reached the ruins six weeks ago. They are not making themselves know
 | Gnash | Wretch Champion (Henchman) | 1 | 0 | Hobgoblin; nominal leader of the Wretches |
 | Wretches | Wretches (Henchman group) | 1 | 0 | Hobgoblins and broken men; number TBC |
 
-> [!todo]
-> Ash — confirm Wretch group size and any remaining equipment loadouts before the campaign begins.
+> [!Warning]
+> This warband is experimental and has not been play-tested. Please provide feedback to admin@wyrdstone.wiki
 
 ---
 

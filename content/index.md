@@ -1,8 +1,8 @@
 ---
-title: "Mordheim Australis 2027"
+title: Wyrdstone.wiki
 ---
 
-Welcome to the **Mordheim Australis 2027** campaign reference — a complete rules companion for the 2027 Sydney campaign season.
+Welcome to the **Wyrdstone.wiki** — a roster companion for Mordheim Australis 2027.
 
 Here you'll find full warband rosters, stat blocks, special rules, spell lists, hired swords, and post-battle reference for all playable factions. Whether you're building your first warband or settling a mid-game dispute at the table, this site has what you need.
 
