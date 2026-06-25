@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Mordheimer.net": "https://mordheimer.net",
       "Broheim.net": "https://www.broheim.net",
-      "Built with Quartz": "https://quartz.jzhao.xyz",
+
     },
   }),
 }
