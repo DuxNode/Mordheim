@@ -36,11 +36,6 @@ The following items are limited to **one per warband** (across all warriors comb
 
 ---
 
-> [!todo] Ash — add any additional campaign-specific house rules here.
-> The three rules above are confirmed for Australis 2027. If further rules are agreed by the group before or during the campaign, record them in the appropriate section above.
-
----
-
 ## Reference
 
 These house rules are consistent with those used by major Mordheim events. For a broader collection of commonly used house rules and their rationale, see [mordheimer.net](https://mordheimer.net/docs/house_rules).

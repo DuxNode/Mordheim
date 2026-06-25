@@ -15,6 +15,7 @@ Here you'll find full warband rosters, stat blocks, special rules, spell lists, 
 - [[campaign/index|Campaign]] — house rules, standings, and campaign rosters
 
 
+---
 
 
 *This site is a free community project not associated with Games Workshop. All original content is Copyright © 2026 Games Workshop.*
