@@ -1,5 +1,5 @@
 ---
-title: Welcome Traveller!
+title: Greetings Traveler!
 ---
 
 Welcome to  **Wyrdstone.wiki** — a roster companion for Mordheim Australis 2027.

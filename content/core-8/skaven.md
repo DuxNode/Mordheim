@@ -34,6 +34,7 @@ Minimum 3 models, maximum 20. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Leader · Perfect Killer: always –1 additional modifier to enemy armour saves</p>
+
 ### Black Skaven
 <span class="unit-meta">Hero · 0–2 · 40 gc · Starting XP: 8</span>
 
@@ -51,6 +52,7 @@ Minimum 3 models, maximum 20. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Magic User (Magic of the Horned Rat)</p>
+
 ### Night Runners
 <span class="unit-meta">Hero · 0–2 · 20 gc · Starting XP: 0</span>
 
@@ -80,6 +82,7 @@ Minimum 3 models, maximum 20. Starting warband: 500 gold crowns.
 </table>
 
 <p class="unit-rules"><strong>Special rules</strong> Animals — do not gain experience. Pack Size: may recruit any number.</p>
+
 ### Rat Ogre
 <span class="unit-meta">Henchman · 0–1 · 210 gc</span>
 
