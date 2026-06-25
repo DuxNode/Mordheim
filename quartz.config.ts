@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Mordheim Australis 2027 — Quartz v4 site config
- * Fonts: Cinzel (headings) · IBM Plex Mono (code/stat tables) · system-sans (body)
+ * Fonts: UnifrakturMaguntia (headings) · IBM Plex Mono (code/stat tables) · Cardo (body)
  * Colours: Quartz v4 defaults — clean slate, revisit in Phase 5
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Mordheim Australis 2027",
+    pageTitle: "Wyrdstone.wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
