@@ -2,7 +2,6 @@
 title: "Chaos Dwarfs"
 tags:
   - Chaos
-  - Australis 2027
 grade: 1b
 ---
 

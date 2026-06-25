@@ -2,7 +2,6 @@
 title: "Marauders of Chaos"
 tags:
   - Chaos
-  - Australis 2027
 grade: 1c
 ---
 

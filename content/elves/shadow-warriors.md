@@ -2,7 +2,6 @@
 title: "Shadow Warriors"
 tags:
   - Elves
-  - Australis 2027
 grade: 1b
 ---
 

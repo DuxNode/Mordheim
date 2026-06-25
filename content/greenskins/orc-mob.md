@@ -2,7 +2,6 @@
 title: "Black Orcs"
 tags:
   - Greenskins
-  - Australis 2027
 grade: 1b
 ---
 

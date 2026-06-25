@@ -2,7 +2,6 @@
 title: "Beastmen Raiders"
 tags:
   - Chaos
-  - Australis 2027
 grade: 1a
 ---
 

@@ -2,7 +2,6 @@
 title: "Outlaws of Stirwood Forest"
 tags:
   - Human
-  - Australis 2027
 grade: 1b
 ---
 

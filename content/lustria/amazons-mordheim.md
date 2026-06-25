@@ -2,7 +2,6 @@
 title: "Amazons (Mordheim)"
 tags:
   - Lustria
-  - Australis 2027
 grade: 1b
 ---
 

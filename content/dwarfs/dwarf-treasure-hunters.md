@@ -2,7 +2,6 @@
 title: "Dwarf Treasure Hunters"
 tags:
   - Dwarfs
-  - Australis 2027
 grade: 1a
 ---
 

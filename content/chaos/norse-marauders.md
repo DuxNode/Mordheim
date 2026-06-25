@@ -2,7 +2,6 @@
 title: "Norse Marauders"
 tags:
   - Chaos
-  - Australis 2027
 grade: 1b
 ---
 

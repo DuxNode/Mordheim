@@ -2,7 +2,6 @@
 title: "Tomb Guardians"
 tags:
   - Undead
-  - Australis 2027
 grade: 1b
 ---
 

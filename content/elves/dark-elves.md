@@ -2,7 +2,6 @@
 title: "Dark Elves"
 tags:
   - Elves
-  - Australis 2027
 grade: 1b
 ---
 

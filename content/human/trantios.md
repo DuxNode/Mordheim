@@ -2,7 +2,6 @@
 title: "Trantios"
 tags:
   - Human
-  - Australis 2027
 grade: 1b
 ---
 

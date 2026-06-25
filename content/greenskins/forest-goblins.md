@@ -2,7 +2,6 @@
 title: "Forest Goblins"
 tags:
   - Greenskins
-  - Australis 2027
 grade: 1b
 ---
 
