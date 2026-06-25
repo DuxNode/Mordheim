@@ -4,16 +4,10 @@
 // MORDHEIM AUSTRALIS 2027 — custom styles
 // ============================================================
 
-// --- Body font: system sans (no web font for body text) -----
-body, p, li, td, th, blockquote {
-  font-family: var(--bodyFont);
-}
-
-// --- Cinzel for all headings and unit names -----------------
+// --- Heading letter-spacing ---------------------------------
 h1, h2, h3, h4, h5, h6,
 .page-title,
 .article-title {
-  font-family: var(--headerFont);
   letter-spacing: 0.02em;
 }
 
