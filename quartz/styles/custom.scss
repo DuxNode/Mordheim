@@ -116,3 +116,8 @@ table.statblock {
 .folder-outer {
   font-size: 0.9rem;
 }
+
+// Hide date/read-time meta on all pages
+.content-meta {
+  display: none;
+}
