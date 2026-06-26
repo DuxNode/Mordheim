@@ -24,121 +24,28 @@ A Possessed warband must include a minimum of three models. You have 500 gold cr
 - **The Possessed:** Your warband may include up to two Possessed.
 - **Mutants:** Your warband may include up to two Mutants.
 - **Darksouls:** Your warband may include up to five Darksouls.
-- **Beastmen Gors:** Your warband may include up to three Beastmen Gors.
+- **Beastmen:** Your warband may include up to three Beastmen.
 - **Brethren:** Any number of models may be Brethren.
 
----
+## Starting experience 
 
-## Heroes
-
-### 1 Magister
-<span class="unit-meta">Hero · Leader · 0–1 · 70 gc · Starting XP: 20</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>8</td></tr></tbody>
-</table>
-
-Magisters lead the covens of the Possessed. They have been granted magical powers by their patron gods and are fanatical followers of the Dark gods, utterly dedicated to bringing Chaos to the world.
-
-**Weapons/Armour:** A Magister may be equipped with weapons and armour chosen from the Possessed Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Leader:** Any models in the warband within 6" of the Magister may use his Leadership instead of their own.
-
-**Magic User:** The Magister has the ability to use magic and casts spells like any other magician. The Magister starts with one spell generated at random from the Chaos Rituals list. In addition the Magister may learn a new Spell instead of a new skill.
+A **Magister** starts with 20 experience.  
+**Possessed** start with 8 experience.  
+**Mutants** starts with 0 experience.  
+**Henchmen** start with 0 experience.  
 
 ---
 
-### 0-2 The Possessed
-90gc + cost of mutations to hire  
+## Skill Table
 
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>5</td><td>4</td><td>0</td><td>4</td><td>4</td><td>2</td><td>4</td><td>2</td><td>7</td></tr></tbody>
-</table>
-
-The Possessed have committed the greatest of heresies: they have given their bodies to Daemons. As a result they are nightmarish creatures, a melding of flesh, metal and black magic. The powerful spirit of a Daemon can meld several creatures together — men or animals — into a multi-faceted horror. These monstrous Possessed are perhaps the most dangerous creatures in Mordheim, and certainly the most loathsome.
-
-**Weapons/Armour:** None. The Possessed never use weapons or armour.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Fear:** The Possessed are terrifying, twisted creatures and therefore cause fear.
-
-**Mutations:** Possessed may start the game with one or more mutations each. See the Mutations section below for costs.
+| | Combat | Academic | Speed |
+|---|---|---|---|
+| Magister | ✓ | ✓ | ✓ |
+| Possessed | ✓ | | ✓ |
+| Mutants | ✓ | | ✓ |
 
 ---
 
-### 0-2 Mutants
-25gc to hire + cost of mutations  
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
-</table>
-
-Mutants are revered as the favoured ones of the Dark gods, their physical disfigurements marking out the vileness of their soul. They come in many shapes and sizes, each more bizarre than the next.
-
-**Weapons/Armour:** Mutants may be equipped with weapons and armour chosen from the Possessed Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Mutations:** Mutants must start the game with one or more mutations each. See the Mutations section below for costs.
-
----
-
-## Henchmen
-
-*(Bought in groups of 1–5)*
-
-### Darksouls
-*0–5 per warband  
-35gc to hire*  
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>2</td><td>2</td><td>4</td><td>3</td><td>1</td><td>3</td><td>1</td><td>6</td></tr></tbody>
-</table>
-
-Darksouls are men who have been driven insane by daemonic possession which became all too common after the destruction of Mordheim. The Daemons have left the bodies of these men, but their minds have been scarred by the horror of the experience. Their insane strength makes them dangerous fighters. The Cultists regard them as holy men, and let them work out their unreasoning rage in battle.
-
-**Weapons/Armour:** Darksouls may be equipped with weapons and armour chosen from the Darksouls Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Crazed:** Darksouls have been driven insane by daemonic possession and know no fear. They automatically pass any Leadership tests they are required to take.
-
----
-
-### 0-3 Beastmen
-45gc to hire
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>4</td><td>3</td><td>3</td><td>4</td><td>2</td><td>3</td><td>1</td><td>7</td></tr></tbody>
-</table>
-
-Beastmen are mutated monstrosities that infest the forests of the Empire: massive horned creatures with an inhuman resistance to pain. The destruction of Mordheim brought many Beastmen into the ruined city to prey upon the survivors. They readily ally with the Magisters of the Possessed warbands.
-
-**Weapons/Armour:** Beastmen may be equipped with weapons and armour chosen from the Darksouls Equipment list.
-
----
-
-### Brethren
-<span class="unit-meta">Henchman · any number · 25 gc</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
-</table>
-
-Brethren are the crazed human followers of the cults of the dark gods, eager to descend into damnation. Their vile deeds and unspeakable acts have driven them to the brink of insanity.
-
-**Weapons/Armour:** Brethren may be equipped with weapons and armour chosen from the Possessed Equipment list.
-
----
 
 ## Equipment Lists
 
@@ -205,13 +112,115 @@ None.
 
 ---
 
-## Skill Table
+## Heroes
 
-| | Combat | Academic | Speed |
-|---|---|---|---|
-| Magister | ✓ | ✓ | ✓ |
-| Possessed | ✓ | | ✓ |
-| Mutants | ✓ | | ✓ |
+### 1 Magister
+**70gc to hire**  
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>8</td></tr></tbody>
+</table>
+
+Magisters lead the covens of the Possessed. They have been granted magical powers by their patron gods and are fanatical followers of the Dark gods, utterly dedicated to bringing Chaos to the world.
+
+**Weapons/Armour:** A Magister may be equipped with weapons and armour chosen from the Possessed Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Leader:** Any models in the warband within 6" of the Magister may use his Leadership instead of their own.
+
+**Magic User:** The Magister has the ability to use magic and casts spells like any other magician. The Magister starts with one spell generated at random from the Chaos Rituals list. In addition the Magister may learn a new Spell instead of a new skill.
+
+---
+
+### 0-2 The Possessed
+**90 gold crowns to hire  
+(+ the cost of mutations)**  
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>5</td><td>4</td><td>0</td><td>4</td><td>4</td><td>2</td><td>4</td><td>2</td><td>7</td></tr></tbody>
+</table>
+
+The Possessed have committed the greatest of heresies: they have given their bodies to Daemons. As a result they are nightmarish creatures, a melding of flesh, metal and black magic. The powerful spirit of a Daemon can meld several creatures together — men or animals — into a multi-faceted horror. These monstrous Possessed are perhaps the most dangerous creatures in Mordheim, and certainly the most loathsome.
+
+**Weapons/Armour:** None. The Possessed never use weapons or armour.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Fear:** The Possessed are terrifying, twisted creatures and therefore cause fear.
+
+**Mutations:** Possessed may start the game with one or more mutations each. See the Mutations section below for costs.
+
+---
+
+### 0-2 Mutants
+**25 gold crowns to hire  
+(+ the cost of mutations)**  
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
+</table>
+
+Mutants are revered as the favoured ones of the Dark gods, their physical disfigurements marking out the vileness of their soul. They come in many shapes and sizes, each more bizarre than the next.
+
+**Weapons/Armour:** Mutants may be equipped with weapons and armour chosen from the Possessed Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Mutations:** Mutants must start the game with one or more mutations each. See the Mutations section below for costs.
+
+---
+
+## Henchmen
+
+*(Bought in groups of 1–5)*
+
+### Darksouls
+**35gc to hire**
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>2</td><td>2</td><td>4</td><td>3</td><td>1</td><td>3</td><td>1</td><td>6</td></tr></tbody>
+</table>
+
+Darksouls are men who have been driven insane by daemonic possession which became all too common after the destruction of Mordheim. The Daemons have left the bodies of these men, but their minds have been scarred by the horror of the experience. Their insane strength makes them dangerous fighters. The Cultists regard them as holy men, and let them work out their unreasoning rage in battle.
+
+**Weapons/Armour:** Darksouls may be equipped with weapons and armour chosen from the Darksouls Equipment list.
+
+<p class="unit-rules"><strong>Special Rules</strong></p>
+
+**Crazed:** Darksouls have been driven insane by daemonic possession and know no fear. They automatically pass any Leadership tests they are required to take.
+
+---
+
+### 0-3 Beastmen
+**45gc to hire**
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>4</td><td>3</td><td>3</td><td>4</td><td>2</td><td>3</td><td>1</td><td>7</td></tr></tbody>
+</table>
+
+Beastmen are mutated monstrosities that infest the forests of the Empire: massive horned creatures with an inhuman resistance to pain. The destruction of Mordheim brought many Beastmen into the ruined city to prey upon the survivors. They readily ally with the Magisters of the Possessed warbands.
+
+**Weapons/Armour:** Beastmen may be equipped with weapons and armour chosen from the Darksouls Equipment list.
+
+---
+
+### Brethren
+25gc to hire
+
+<table class="statblock">
+<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
+</table>
+
+Brethren are the crazed human followers of the cults of the dark gods, eager to descend into damnation. Their vile deeds and unspeakable acts have driven them to the brink of insanity.
+
+**Weapons/Armour:** Brethren may be equipped with weapons and armour chosen from the Possessed Equipment list.
 
 ---
 
