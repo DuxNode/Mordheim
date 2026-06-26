@@ -22,6 +22,7 @@ Here you'll find full warband rosters, stat blocks, special rules, spell lists, 
  - [broheim.net](https://broheim.net): hosts PDF versions of the original Mordheim rulebook, Town Cryer supplements, and community-produced warband PDFs. Useful for checking original wording or accessing warband PDFs directly.
 - [r/mordheim](https://www.reddit.com/r/mordheim/): The main active community on Reddit for sharing campaigns, miniatures, and rules queries.
 - [Boring Mordheim Forum](https://boringmordheimforum.forumieren.com/t512-reference-official-citadel-miniatures-for-mordheim): A goldmine for collectors looking to track down original Citadel Miniatures, warband references, and historical campaigns.
+- [Quartermaster](https://quartermaster.app/): The best warband management app for iOS.
 
 ---
 

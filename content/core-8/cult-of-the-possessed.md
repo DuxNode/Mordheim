@@ -1,12 +1,8 @@
 ---
-title: "Cult of the Possessed"
+title: Cult of the Possessed
 tags:
-  - Core-8
-grade: 1a
+  - Grade-1A
 ---
-
-<div class="warband-status grade-1a">Core 8 — built into Quartermaster by default</div>
-
 **Source:** Mordheim Rulebook · **Setting:** Mordheim
 
 There is never any shortage of men willing to risk their lives for a chance of real power — men whose ambitions lie beyond the scope of their birthright, or whose sorcerous gifts or physical deformities place them in constant danger of persecution. What do such men have to lose if they pledge their souls to the dark gods of Chaos?

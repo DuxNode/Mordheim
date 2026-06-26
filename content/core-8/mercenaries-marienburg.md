@@ -1,7 +1,7 @@
 ---
-title: "Marienburg Mercenaries"
+title: Marienburg Mercenaries
 tags:
-  - Core-8
+  - Grade-1A
 grade: 1a
 ---
 

@@ -16,33 +16,34 @@ h1, h2, h3, h4, h5, h6,
 // ============================================================
 table.statblock {
   font-family: var(--codeFont);
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   border-collapse: collapse;
   width: auto;
   margin: 0.4rem 0 0.6rem 0;
 
   thead tr {
-    background-color: var(--secondary);
-    color: var(--light);
+    background: none;
 
     th {
       font-family: var(--codeFont);
-      padding: 3px 8px;
+      padding: 2px 6px;
       text-align: center;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      border: 1px solid var(--tertiary);
-      min-width: 2rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      min-width: 1.6rem;
+      border: none;
+      border-bottom: 2px solid var(--darkgray);
+      color: var(--darkgray);
     }
   }
 
   tbody tr {
-    background-color: var(--lightgray);
+    background: none;
 
     td {
-      padding: 3px 8px;
+      padding: 2px 6px;
       text-align: center;
-      border: 1px solid var(--gray);
+      border: none;
     }
   }
 }

@@ -1,7 +1,7 @@
 ---
-title: "Witch Hunters"
+title: Witch Hunters
 tags:
-  - Core-8
+  - grade-1a
 grade: 1a
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Sisters of Sigmar"
+title: Sisters of Sigmar
 tags:
-  - Core-8
+  - Grade-1A
 grade: 1a
 ---
 
