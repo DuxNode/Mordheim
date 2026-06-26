@@ -46,6 +46,13 @@ table.statblock {
       border: none;
       border-bottom: 2px solid var(--darkgray);
       color: var(--darkgray);
+
+      &.profile {
+        font-family: var(--bodyFont);
+        letter-spacing: 0;
+        padding-right: 2rem;
+        color: var(--dark);
+      }
     }
   }
 
@@ -58,6 +65,10 @@ table.statblock {
       width: 1px;
       white-space: nowrap;
       border: none;
+
+      &.profile-cell {
+        padding-right: 2rem;
+      }
     }
   }
 }
