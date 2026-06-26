@@ -14,8 +14,17 @@ h1, h2, h3, h4, h5, h6,
 // ============================================================
 // STAT BLOCKS
 // ============================================================
+// Quartz wraps every table in <div class="table-container"> (a full-width
+// horizontal-scroll wrapper). For statblocks we collapse that wrapper so the
+// table shrink-wraps to its content instead of stretching full width.
+.table-container:has(table.statblock) {
+  display: inline-block;
+  width: auto;
+  max-width: 100%;
+  overflow-x: visible;
+}
+
 table.statblock {
-  display: inline-table;
   font-family: var(--codeFont);
   font-size: 0.78rem;
   border-collapse: collapse;
@@ -32,7 +41,6 @@ table.statblock {
       text-align: left;
       font-weight: 700;
       letter-spacing: 0.03em;
-      width: 1px;
       white-space: nowrap;
       border: none;
       border-bottom: 2px solid var(--darkgray);
@@ -46,7 +54,6 @@ table.statblock {
     td {
       padding: 2px 8px 2px 0;
       text-align: left;
-      width: 1px;
       white-space: nowrap;
       border: none;
     }

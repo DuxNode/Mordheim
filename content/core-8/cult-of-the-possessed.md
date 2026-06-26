@@ -112,8 +112,8 @@ Darksouls are men who have been driven insane by daemonic possession which becam
 
 ---
 
-### Beastmen Gors
-<span class="unit-meta">Henchman · 0–3 · 45 gc</span>
+### 0-3 Beastmen
+45gc to hire
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
