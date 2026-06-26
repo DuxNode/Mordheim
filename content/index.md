@@ -10,12 +10,19 @@ Here you'll find full warband rosters, stat blocks, special rules, spell lists, 
 
 ## Find what you need
 
-- [[core-8|Warbands]] — all playable factions, full stat blocks and equipment lists
+- [[Warbands/index|Warbands]] — all playable factions, full stat blocks and equipment lists
 - [[reference/index|Reference]] — skills, spells, injuries, hired swords, and trading post
 - [[campaign/index|Campaign]] — house rules, standings, and campaign rosters
 
-
 ---
 
+## Recommended Resources
+
+ - [mordheimer.net](https://mordheimer.net): the primary online rules reference, with all warbands, spells, hired swords, and campaign rules.
+ - [broheim.net](https://broheim.net): hosts PDF versions of the original Mordheim rulebook, Town Cryer supplements, and community-produced warband PDFs. Useful for checking original wording or accessing warband PDFs directly.
+- [r/mordheim](https://www.reddit.com/r/mordheim/): The main active community on Reddit for sharing campaigns, miniatures, and rules queries.
+- [Boring Mordheim Forum](https://boringmordheimforum.forumieren.com/t512-reference-official-citadel-miniatures-for-mordheim): A goldmine for collectors looking to track down original Citadel Miniatures, warband references, and historical campaigns.
+
+---
 
 *This site is a free community project not associated with Games Workshop. All original content is Copyright © 2026 Games Workshop.*

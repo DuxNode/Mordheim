@@ -34,11 +34,15 @@ Record the Hired Sword's name and profile in one of the Henchman group slots on 
 
 ## Grades
 
-Hired Swords are organised by grade, reflecting the breadth of community-sourced content available for Mordheim Australis. Each grade page lists which warbands may hire each mercenary, their cost and upkeep, and their full rules.
+Warbands are organised by grade, reflecting the quality and play-tested nature of their rulesets.
 
-- **Core / Grade 1A** — Hired Swords from the Mordheim Rulebook and core Town Cryer issues. Available to most warbands. Full Grade 1A profiles are catalogued on [Mordheimer.net](https://mordheimer.net).
-- **Grade 1B** — Hired Swords from later Town Cryer issues and supplements. Warband restrictions vary. Full Grade 1B profiles are catalogued on [Mordheimer.net](https://mordheimer.net).
+They are available on [broheim.net](https://broheim.net/warbands.html), each listed under their respective grade.
 
-> Grade 1C and 2A hired swords appear on mordheimer.net but are not part of the Mordheim Australis 2027 campaign roster.
-
-*Source: mordheimer.net/docs/campaigns/hired-swords — Mordheim Rulebook, Town Cryer issues, Mordheim Annual 2002.*
+- **Grade 1A** — The original warbands from the Mordheim Rulebook, and core Town Cryer issues. Official rules published by Games Workshop.
+- **Grade 1B** — Unofficial warbands from later Town Cryer issues and supplements published by Games Workshop.
+- **Grade 1C** — Experimental warbands released through community supplements, usually of high-quality and have been play-tested. Often endorsed by Games Workshop staff. 
+- **Grade 2 & 3** — Further experimental warbands, some community play-tested, some in draft stages.
+  <br>
+  
+> [!tip] New to Mordheim? 
+> Start with a Grade 1A or 1B warband. These have the most complete and well-tested rulesets, making them the easiest to learn and the most reliably balanced against other warbands. Grade 1C and beyond can be great fun, but are best appreciated once you have a campaign or two under your belt.
