@@ -2,6 +2,8 @@
 title: Reikland Mercenaries
 tags:
   - Grade-1A
+  - Mercenaries
+  - Human
 grade: 1a
 ---
 

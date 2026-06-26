@@ -1,8 +1,9 @@
 ---
 title: Marauders of Chaos
 tags:
+  - Grade-1C
   - Chaos
-  - 1c
+  - Human
 ---
 
 <div class="warband-status grade-1b">Grade 1C — Australis 2027 approved warband</div>

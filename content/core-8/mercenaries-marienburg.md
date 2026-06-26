@@ -2,6 +2,8 @@
 title: Marienburg Mercenaries
 tags:
   - Grade-1A
+  - Mercenaries
+  - Human
 grade: 1a
 ---
 

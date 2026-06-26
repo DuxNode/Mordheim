@@ -1,6 +1,7 @@
 ---
-title: "Dwarf Treasure Hunters"
+title: Dwarf Treasure Hunters
 tags:
+  - Grade-1A
   - Dwarfs
 grade: 1a
 ---

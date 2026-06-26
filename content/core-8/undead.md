@@ -2,6 +2,7 @@
 title: Undead
 tags:
   - Grade-1A
+  - Undead
 ---
 
 <div class="warband-status grade-1a">Core 8 — built into Quartermaster by default</div>

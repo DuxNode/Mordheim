@@ -1,8 +1,8 @@
 ---
-title: "Beastmen Raiders"
+title: Beastmen Raiders
 tags:
+  - Grade-1A
   - Chaos
-grade: 1a
 ---
 
 <div class="warband-status grade-1a">Grade 1a — included in Australis 2027</div>

@@ -2,6 +2,7 @@
 title: Skaven
 tags:
   - Grade-1A
+  - Skaven
 grade: 1a
 ---
 

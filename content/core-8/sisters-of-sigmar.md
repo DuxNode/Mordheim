@@ -2,6 +2,7 @@
 title: Sisters of Sigmar
 tags:
   - Grade-1A
+  - Human
 grade: 1a
 ---
 

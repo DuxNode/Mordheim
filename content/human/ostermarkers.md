@@ -1,8 +1,9 @@
 ---
-title: "Ostermarkers"
+title: Ostermarkers
 tags:
+  - Grade-1B
+  - Mercenaries
   - Human
-grade: 1b
 ---
 
 <div class="warband-status grade-1b">Grade 1b — Fanatic Online #19 (Mercenary variant)</div>

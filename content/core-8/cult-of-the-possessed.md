@@ -2,6 +2,7 @@
 title: Cult of the Possessed
 tags:
   - Grade-1A
+  - Chaos
 ---
 **Source:** Mordheim Rulebook · **Setting:** Mordheim
 
@@ -51,9 +52,9 @@ Magisters lead the covens of the Possessed. They have been granted magical power
 ---
 
 ### The Possessed
-0–2 per warband
-90gc + cost of mutations to hire
-Starting XP: 8
+0–2 per warband  
+90gc + cost of mutations to hire  
+Starting XP: 8  
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
@@ -73,9 +74,7 @@ The Possessed have committed the greatest of heresies: they have given their bod
 ---
 
 ### Mutants
-0–2 per warband
-25gc to hire + cost of mutations
-Starting XP: 0
+0–2 per warband, 25gc to hire + cost of mutations, Starting XP: 0
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
@@ -97,8 +96,7 @@ Mutants are revered as the favoured ones of the Dark gods, their physical disfig
 *(Bought in groups of 1–5)*
 
 ### Darksouls
-0–5 per warband
-35gc to hire
+0–5 per warband, 35gc to hire
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>

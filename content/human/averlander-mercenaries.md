@@ -1,12 +1,12 @@
 ---
-title: "Averlander Mercenaries"
+title: Averlander Mercenaries
 draft: true
 tags:
+  - Grade-1A
   - Human
   - Mercenaries
-  - Grade 1a
 accent: "#8B6914"
-grade: "1a"
+grade: 1a
 ---
 
 # Averlander Mercenaries

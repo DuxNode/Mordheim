@@ -1,8 +1,8 @@
 ---
-title: "Carnival of Chaos"
+title: Carnival of Chaos
 tags:
+  - Grade-1A
   - Chaos
-grade: 1a
 ---
 
 <div class="warband-status grade-1a">Grade 1A — Australis 2027 approved warband</div>

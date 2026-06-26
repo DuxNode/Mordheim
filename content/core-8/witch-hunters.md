@@ -2,6 +2,7 @@
 title: Witch Hunters
 tags:
   - grade-1a
+  - Human
 grade: 1a
 ---
 
