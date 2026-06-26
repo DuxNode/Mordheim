@@ -7,13 +7,21 @@ tags:
 ---
 **Source:** Mordheim Rulebook · **Setting:** Mordheim
 
-<div class="warband-status grade-1a">Core 8 — built into Quartermaster by default</div>
+*This is a time of unremitting war, civil strife, violence and famine. A time of orphan children and wanton slaughter. For warriors these are good times! Since the discovery of wyrdstone Mordheim has become a magnet for fighting men from all over the Empire. Nobles, merchants, and the Temple of Sigmar itself offer rich rewards for shards of the mysterious stone. Foremost amongst the patrons of mercenary warriors are the three most powerful contenders for the Emperor's throne: the Grand Prince of Reikland, the Count of Middenheim, and Lady Magritta of Marienburg – favourite of the merchant guilds.*
 
-This is a time of unremitting war, civil strife, violence and famine. A time of orphan children and wanton slaughter. For warriors these are good times! Since the discovery of wyrdstone Mordheim has become a magnet for fighting men from all over the Empire. Nobles, merchants, and the Temple of Sigmar itself offer rich rewards for shards of the mysterious stone. Foremost amongst the patrons of mercenary warriors are the three most powerful contenders for the Emperor's throne: the Grand Prince of Reikland, the Count of Middenheim, and Lady Magritta of Marienburg – favourite of the merchant guilds.
+*As a mercenary warband you must decide which of the three contenders for Sigmar's throne you are fighting for. Warbands from different places will vary in many respects, offering different benefits as well as having a unique appearance and character.*
 
-As a mercenary warband you must decide which of the three contenders for Sigmar's throne you are fighting for. Warbands from different places will vary in many respects, offering different benefits as well as having a unique appearance and character.
+*Reikland lies at the heart of the Empire and its greatest city is Altdorf, home of the Grand Theogonist and seat of the Temple of Sigmar. Reiklanders are devout followers of Sigmar, the founder, first Emperor, and patron god of the Empire. The Grand Prince of Reikland (as Siegfried, the ruler of Reikland, styles himself) is supported in his claim to the throne by the Grand Theogonist and opposed most strongly by the Count of Middenheim and the Priests of Ulric.*
 
-Reikland lies at the heart of the Empire and its greatest city is Altdorf, home of the Grand Theogonist and seat of the Temple of Sigmar. Reiklanders are devout followers of Sigmar, the founder, first Emperor, and patron god of the Empire. Throughout the Empire Reiklanders are commonly supposed to embody the discipline and loyalty of the professional warrior. Brave and well-versed in the arts of war, Reiklanders disdain fashionable clothing in favour of well-made and practical wargear. In battle they often wear coloured ribbons as marks of identification or authority. They are justly proud of their dynamic and ambitious Grand Prince and contemptuous of other claimants to the throne, especially the Count of Middenheim, Mannfred Todbringer, whom they sneeringly call the 'lap-dog of Ulric'.
+*Throughout the Empire Reiklanders are commonly supposed to embody the discipline and loyalty of the professional warrior. Brave and well-versed in the arts of war, Reiklanders disdain fashionable clothing in favour of well-made and practical wargear. In battle they often wear coloured ribbons as marks of identification or authority. They are justly proud of their dynamic and ambitious Grand Prince and contemptuous of other claimants to the throne, especially the Count of Middenheim, Mannfred Todbringer, whom they sneeringly call the ‘lap-dog of Ulric’.*
+
+---
+
+## Special Rules
+
+Reikland Mercenaries are accustomed to the demands of military discipline and have a strongly developed loyalty between officers and men. To represent this, fighters may use their Captain’s Leadership if within 12" rather than the usual 6".  
+
+A strong tradition of martial training is also responsible for the high standards of archery amongst the people of Reikland. All Marksmen therefore add +1 to their Ballistic Skill, whether they are recruited when the warband is first formed or added later.
 
 ---
 
@@ -130,7 +138,7 @@ The **Captain** starts with 20 experience.
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>1</td><td>4</td><td>1</td><td>8</td></tr></tbody>
 </table>
 
-A Mercenary Captain is a tough professional warrior, a man who will fight for anyone or against anything so long as the price is right. Mordheim offers such a man the chance to become rich beyond his dreams, though at great risk. But as ruthlessness and lack of mercy and pity are the hallmarks of a successful Mercenary Captain, it is no wonder that they flock to Mordheim.
+*A Mercenary Captain is a tough professional warrior, a man who will fight for anyone or against anything so long as the price is right. Mordheim offers such a man the chance to become rich beyond his dreams, though at great risk. But as ruthlessness and lack of mercy and pity are the hallmarks of a successful Mercenary Captain, it is no wonder that they flock to Mordheim.*
 
 **Weapons/Armour:** A Mercenary Captain may be equipped with weapons and armour chosen from the Mercenary Equipment list.
 
@@ -138,7 +146,7 @@ A Mercenary Captain is a tough professional warrior, a man who will fight for an
 
 **Leader:** Any warrior within 6" of the Mercenary Captain may use his Leadership characteristic when taking Leadership tests.
 
-**Extended Leadership (Reikland only):** Reikland Mercenaries are accustomed to the demands of military discipline and have a strongly developed loyalty between officers and men. Fighters may use their Captain's Leadership if within 12" rather than the usual 6".
+**Extended Leadership:** Reikland Mercenaries are accustomed to the demands of military discipline and have a strongly developed loyalty between officers and men. Fighters may use their Captain's Leadership if within 12" rather than the usual 6".
 
 ---
 
@@ -150,7 +158,7 @@ A Mercenary Captain is a tough professional warrior, a man who will fight for an
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-In any Mercenary warband there is one warrior who is bigger, stronger (and often uglier) than his comrades. These men are called Champions (or berserkers, first swordsmen and various other names). Champions are amongst the toughest and the best fighters in the warband. They often answer challenges issued to the warband and, after the Captain, they get the pick of any equipment and loot.
+*In any Mercenary warband there is one warrior who is bigger, stronger (and often uglier) than his comrades. These men are called Champions (or berserkers, first swordsmen and various other names). Champions are amongst the toughest and the best fighters in the warband. They often answer challenges issued to the warband and, after the Captain, they get the pick of any equipment and loot.*
 
 **Weapons/Armour:** Champions may be equipped with weapons and armour chosen from the Mercenary Equipment list.
 
@@ -164,7 +172,7 @@ In any Mercenary warband there is one warrior who is bigger, stronger (and often
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>2</td><td>2</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>6</td></tr></tbody>
 </table>
 
-These are young fighters who are still inexperienced, but eager to win their spurs in the savage fighting in and around the ruins of Mordheim.
+*These are young fighters who are still inexperienced, but eager to win their spurs in the savage fighting in and around the ruins of Mordheim.*
 
 **Weapons/Armour:** Youngbloods may be equipped with weapons and armour chosen from the Mercenary Equipment list.
 
@@ -182,7 +190,7 @@ These are young fighters who are still inexperienced, but eager to win their spu
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-These dogs of war are grim, seasoned fighters, fearing no man as long as they have their weapons and armour. They form the core of any Mercenary warband.
+*These dogs of war are grim, seasoned fighters, fearing no man as long as they have their weapons and armour. They form the core of any Mercenary warband.*
 
 **Weapons/Armour:** Warriors may be equipped with weapons and armour chosen from the Mercenary Equipment list.
 
@@ -196,13 +204,9 @@ These dogs of war are grim, seasoned fighters, fearing no man as long as they ha
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-The archers and hunters of the Old World are famed for their skill, and it is said that they can hit a coin from 300 paces with a long bow. In the savage street fights of Mordheim they snipe at the enemy from the windows of ruined buildings and pick out enemy leaders with their arrows.
+*The archers and hunters of the Old World are famed for their skill, and it is said that they can hit a coin from 300 paces with a long bow. In the savage street fights of Mordheim they snipe at the enemy from the windows of ruined buildings and pick out enemy leaders with their arrows.*
 
 **Weapons/Armour:** Marksmen may be equipped with weapons and armour chosen from the Marksman Equipment list.
-
-**Special Rules**
-
-**Reikland Marksmen:** A strong tradition of martial training is responsible for the high standards of archery amongst the people of Reikland. All Marksmen therefore add +1 to their Ballistic Skill, whether they are recruited when the warband is first formed or added later.
 
 ---
 
@@ -214,7 +218,7 @@ The archers and hunters of the Old World are famed for their skill, and it is sa
 <tbody><tr><td class="profile-cell"></td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
 </table>
 
-Swordsmen are professional warriors, experts at taking on and beating several opponents at once. They are much sought after by warband leaders, as their skills are ideally suited for fighting in Mordheim.
+*Swordsmen are professional warriors, experts at taking on and beating several opponents at once. They are much sought after by warband leaders, as their skills are ideally suited for fighting in Mordheim.*
 
 **Weapons/Armour:** Swordsmen may be equipped with weapons and armour chosen from the Mercenary Equipment list.
 
