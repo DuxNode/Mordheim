@@ -17,6 +17,12 @@ h1, h2, h3, h4, h5, h6,
 // Quartz wraps every table in <div class="table-container"> (a full-width
 // horizontal-scroll wrapper). For statblocks we collapse that wrapper so the
 // table shrink-wraps to its content instead of stretching full width.
+//
+// Belt-and-suspenders: target the wrapper both via :has() (modern browsers)
+// and by a data attribute we add to the HTML (fallback). The table itself
+// also gets width: auto !important to beat Quartz's base table { width: 100% }.
+
+// Primary fix — :has() selector (Chrome 105+, Firefox 121+, Safari 15.4+)
 .table-container:has(table.statblock) {
   display: inline-block !important;
   width: fit-content !important;
@@ -31,6 +37,7 @@ table.statblock {
   font-size: 0.78rem;
   border-collapse: collapse;
   width: auto !important;
+  max-width: none !important;
   table-layout: auto;
   margin: 0.4rem 0 0.6rem 0;
 
@@ -39,11 +46,11 @@ table.statblock {
 
     th {
       font-family: var(--codeFont);
-      padding: 1px 8px 1px 0;
+      padding: 1px 6px 1px 0;
       text-align: left;
       font-weight: 700;
       letter-spacing: 0.03em;
-      width: 1px;
+      min-width: 1.6rem;
       white-space: nowrap;
       border: none;
       border-bottom: 2px solid var(--darkgray);
@@ -53,6 +60,7 @@ table.statblock {
         font-family: var(--bodyFont);
         letter-spacing: 0;
         padding-right: 2rem;
+        min-width: 0;
         color: var(--dark);
       }
     }
@@ -62,9 +70,8 @@ table.statblock {
     background: none;
 
     td {
-      padding: 2px 8px 2px 0;
+      padding: 2px 6px 2px 0;
       text-align: left;
-      width: 1px;
       white-space: nowrap;
       border: none;
 
