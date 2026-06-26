@@ -127,7 +127,7 @@ Magisters lead the covens of the Possessed. They have been granted magical power
 
 **Weapons/Armour:** A Magister may be equipped with weapons and armour chosen from the Possessed Equipment list.
 
-<p class="unit-rules"><strong>Special Rules</strong></p>
+**Special Rules**
 
 **Leader:** Any models in the warband within 6" of the Magister may use his Leadership instead of their own.
 
@@ -148,7 +148,7 @@ The Possessed have committed the greatest of heresies: they have given their bod
 
 **Weapons/Armour:** None. The Possessed never use weapons or armour.
 
-<p class="unit-rules"><strong>Special Rules</strong></p>
+**Special Rules**
 
 **Fear:** The Possessed are terrifying, twisted creatures and therefore cause fear.
 
@@ -169,7 +169,7 @@ Mutants are revered as the favoured ones of the Dark gods, their physical disfig
 
 **Weapons/Armour:** Mutants may be equipped with weapons and armour chosen from the Possessed Equipment list.
 
-<p class="unit-rules"><strong>Special Rules</strong></p>
+**Special Rules**
 
 **Mutations:** Mutants must start the game with one or more mutations each. See the Mutations section below for costs.
 
@@ -191,7 +191,7 @@ Darksouls are men who have been driven insane by daemonic possession which becam
 
 **Weapons/Armour:** Darksouls may be equipped with weapons and armour chosen from the Darksouls Equipment list.
 
-<p class="unit-rules"><strong>Special Rules</strong></p>
+**Special Rules**
 
 **Crazed:** Darksouls have been driven insane by daemonic possession and know no fear. They automatically pass any Leadership tests they are required to take.
 
