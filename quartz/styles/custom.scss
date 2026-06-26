@@ -14,14 +14,19 @@ h1, h2, h3, h4, h5, h6,
 // ============================================================
 // STAT BLOCKS
 // ============================================================
+.statblock-wrap {
+  display: inline-block;
+  max-width: 100%;
+  margin: 0.4rem 0 0.6rem 0;
+}
+
 table.statblock {
   font-family: var(--codeFont);
   font-size: 0.78rem;
   border-collapse: collapse;
   width: auto !important;
-  max-width: 100%;
   table-layout: auto;
-  margin: 0.4rem 0 0.6rem 0;
+  margin: 0;
 
   thead tr {
     background: none;

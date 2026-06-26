@@ -31,7 +31,7 @@ A Possessed warband must include a minimum of three models. You have 500 gold cr
 
 ## Heroes
 
-### Magister
+### 1 Magister
 <span class="unit-meta">Hero · Leader · 0–1 · 70 gc · Starting XP: 20</span>
 
 <table class="statblock">
@@ -51,10 +51,8 @@ Magisters lead the covens of the Possessed. They have been granted magical power
 
 ---
 
-### The Possessed
-*0–2 per warband  
+### 0-2 The Possessed
 90gc + cost of mutations to hire  
-Starting XP: 8*
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
@@ -73,10 +71,8 @@ The Possessed have committed the greatest of heresies: they have given their bod
 
 ---
 
-### Mutants
-*0–2 per warband
-25gc to hire + cost of mutations
-Starting XP: 0*
+### 0-2 Mutants
+25gc to hire + cost of mutations  
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
@@ -98,8 +94,8 @@ Mutants are revered as the favoured ones of the Dark gods, their physical disfig
 *(Bought in groups of 1–5)*
 
 ### Darksouls
-*0–5 per warband
-35gc to hire*
+*0–5 per warband  
+35gc to hire*  
 
 <table class="statblock">
 <thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
