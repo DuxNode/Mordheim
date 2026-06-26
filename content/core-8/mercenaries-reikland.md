@@ -146,8 +146,6 @@ The **Captain** starts with 20 experience.
 
 **Leader:** Any warrior within 6" of the Mercenary Captain may use his Leadership characteristic when taking Leadership tests.
 
-**Extended Leadership:** Reikland Mercenaries are accustomed to the demands of military discipline and have a strongly developed loyalty between officers and men. Fighters may use their Captain's Leadership if within 12" rather than the usual 6".
-
 ---
 
 ### 0–2 Champions
