@@ -28,8 +28,8 @@ table.statblock {
 
     th {
       font-family: var(--codeFont);
-      padding: 1px 4px;
-      text-align: center;
+      padding: 1px 8px 1px 0;
+      text-align: left;
       font-weight: 700;
       letter-spacing: 0.03em;
       width: 1px;
@@ -44,8 +44,8 @@ table.statblock {
     background: none;
 
     td {
-      padding: 2px 4px;
-      text-align: center;
+      padding: 2px 8px 2px 0;
+      text-align: left;
       width: 1px;
       white-space: nowrap;
       border: none;
