@@ -229,32 +229,50 @@ Brethren are the crazed human followers of the cults of the dark gods, eager to 
 
 Mutations may be bought for a Mutant or a Possessed warrior only when they are recruited — you may not buy new mutations for a model after recruitment. Any Mutant or Possessed may have one or more mutations. The first mutation is bought at the price indicated, but second and subsequent mutations bought for the same model cost double.
 
-### Daemon Soul — 20 gc
-A Daemon lives within the mutant's soul. This gives him a 4+ save against the effects of spells or prayers.
+#### Daemon Soul
+A Daemon lives within the mutant's soul. This gives him a 4+ save against the effects of spells or prayers.  
 
-### Great Claw — 50 gc
-One of the mutant's arms ends in a great, crab-like claw. He may carry no weapons in this arm, but gains an extra attack in hand-to-hand combat with a +1 Strength bonus.
+Cost: 20 gold crowns
 
-### Cloven Hoofs — 40 gc
-The warrior gains +1 Movement.
+#### Great Claw
+One of the mutant's arms ends in a great, crab-like claw. He may carry no weapons in this arm, but gains an extra attack in hand-to-hand combat with a +1 Strength bonus.  
 
-### Tentacle — 35 gc
+Cost: 50 gold crowns  
+
+#### Cloven Hoofs
+The warrior gains +1 Movement.  
+
+Cost: 40 gold crowns  
+
+#### Tentacle
 One of the mutant's arms ends in a tentacle. He may grapple his opponent in close combat to reduce his attacks by –1, down to a minimum of 1. The mutant may decide which attack his opponent loses.
 
-### Blackblood — 30 gc
+Cost: 35 gold crowns  
+
+#### Blackblood
 If the model loses a wound in close combat, anyone in base contact with the model suffers a Strength 3 hit (no critical hits) from the spurting corrosive blood.
 
-### Spines — 35 gc
+Cost: 30 gold crowns  
+
+#### Spines
 Any model in base contact with the mutant suffers an automatic Strength 1 hit at the beginning of each close combat phase. Spines will never cause critical hits.
 
-### Scorpion Tail — 40 gc
+Cost: 35 gold crowns  
+
+#### Scorpion Tail
 The mutant has a long barbed tail with a venomed tip, allowing him to make an extra Strength 5 attack in each hand-to-hand combat phase. If the model hit by the tail is immune to poison, the Strength of the hit is reduced to 2.
 
-### Extra Arm — 40 gc
+Cost: 40 gold crowns  
+
+#### Extra Arm
 The mutant may use any single-handed weapon in the extra arm, giving him +1 attack when fighting in hand-to-hand combat. Alternatively, he may carry a shield or a buckler in the extra arm. If a Possessed chooses to do this, he gains an extra attack but still cannot carry a weapon.
 
-### Hideous — 40 gc
+Cost: 40 gold crowns  
+
+#### Hideous
 The mutant causes fear.
+
+Cost: 40 gold crowns  
 
 ---
 
