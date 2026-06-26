@@ -18,7 +18,9 @@ table.statblock {
   font-family: var(--codeFont);
   font-size: 0.78rem;
   border-collapse: collapse;
-  width: auto;
+  width: auto !important;
+  max-width: 100%;
+  table-layout: auto;
   margin: 0.4rem 0 0.6rem 0;
 
   thead tr {
