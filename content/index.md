@@ -8,7 +8,7 @@ Here you'll find full warband rosters, stat blocks, special rules, spell lists, 
 
 ## Find what you need
 
-- [[Warbands/index|Warbands]] — all playable factions, full stat blocks and equipment lists
+- [[reference/warbands/index|Warbands]] — all playable factions, full stat blocks and equipment lists
 - [[reference/index|Reference]] — skills, spells, injuries, hired swords, and trading post
 - [[campaign/index|Campaign]] — house rules, standings, and campaign rosters
 
