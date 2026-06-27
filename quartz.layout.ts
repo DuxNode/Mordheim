@@ -1,56 +1,66 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Shared layout components (appear on every page)
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
   footer: Component.Footer({
     links: {
       "Mordheimer.net": "https://mordheimer.net",
-      "Broheim.net": "https://www.broheim.net",
-
+      "Built with Quartz v4": "https://quartz.jzhao.xyz",
     },
   }),
 }
 
-// NOTE: sortFn is serialised via .toString() and reconstructed with new Function()
-// in the browser — it must be fully self-contained with no closure variables.
-const explorerComponent = Component.DesktopOnly(
-  Component.Explorer({
-    folderClickBehavior: "collapse",
-    folderDefaultState: "collapsed",
-    useSavedState: true,
-    sortFn: (a, b) => {
-      const ORDER = ["core-8","chaos","dwarfs","elves","greenskins","human","lustria","undead","unofficial","reference","campaign","roster"]
-      if (a.isFolder && !b.isFolder) return -1
-      if (!a.isFolder && b.isFolder) return 1
-      if (a.isFolder && b.isFolder) {
-        const ai = ORDER.indexOf(a.slugSegment)
-        const bi = ORDER.indexOf(b.slugSegment)
-        if (ai !== -1 && bi !== -1) return ai - bi
-        if (ai !== -1) return -1
-        if (bi !== -1) return 1
-      }
-      return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-    },
-    filterFn: (node) => node.slugSegment !== "tags",
-  })
-)
+// Shared Explorer configuration — used in both layout types
+// NAV_ORDER controls folder sort. slugSegment is the last path component,
+// so "grade-1a" matches both reference/warbands/grade-1a and any other
+// folder named grade-1a. The sort is applied at each level independently.
+const explorerConfig = Component.Explorer({
+  title: "Mordheim Australis",
+  folderClickBehavior: "collapse",
+  folderDefaultState: "collapsed",
+  useSavedState: true,
+  sortFn: (a, b) => {
+    const NAV_ORDER = [
+      // Top level
+      "campaign",
+      "roster",
+      "reference",
+      // reference/ children
+      "warbands",
+      "rules",
+      // reference/warbands/ children
+      "grade-1a",
+      "grade-1b",
+      "grade-1c",
+      "unofficial",
+    ]
 
-const leftComponents = [
-  Component.PageTitle(),
-  Component.MobileOnly(Component.Spacer()),
-  Component.Search(),
-  Component.Darkmode(),
-  explorerComponent,
-]
+    if (a.isFolder && b.isFolder) {
+      const aIdx = NAV_ORDER.indexOf(a.slugSegment)
+      const bIdx = NAV_ORDER.indexOf(b.slugSegment)
+      const aRank = aIdx === -1 ? 999 : aIdx
+      const bRank = bIdx === -1 ? 999 : bIdx
+      if (aRank !== bRank) return aRank - bRank
+    }
 
-const rightComponents = [
-  Component.DesktopOnly(Component.TableOfContents()),
-  Component.DesktopOnly(Component.Backlinks()),
-]
+    if (a.isFolder !== b.isFolder) {
+      return a.isFolder ? 1 : -1
+    }
 
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
+  filterFn: (node) => {
+    return node.file?.frontmatter?.draft !== true
+  },
+})
+
+// Default content page layout
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -58,16 +68,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: leftComponents,
-  right: rightComponents,
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(explorerConfig),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
 
+// Folder/list page layout
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
-  left: leftComponents,
-  right: rightComponents,
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.DesktopOnly(explorerConfig),
+  ],
+  right: [],
 }

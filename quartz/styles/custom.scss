@@ -12,74 +12,89 @@ h1, h2, h3, h4, h5, h6,
 }
 
 // ============================================================
-// STAT BLOCKS
+// STAT BLOCKS  (v3.33 — definitive shrink-wrap fix)
 // ============================================================
-// Quartz wraps every table in <div class="table-container"> (a full-width
-// horizontal-scroll wrapper). For statblocks we collapse that wrapper so the
-// table shrink-wraps to its content instead of stretching full width.
-//
-// Belt-and-suspenders: target the wrapper both via :has() (modern browsers)
-// and by a data attribute we add to the HTML (fallback). The table itself
-// also gets width: auto !important to beat Quartz's base table { width: 100% }.
+// ROOT CAUSE: Quartz base.scss forces `min-width: 75px` on every th/td
+// inside .table-container > table. With 10 stat columns that's a ~750px
+// minimum, so `fit-content` on the container still resolved to ~970px and
+// columns spread to ~97px each. The container fix was working — but wrapping
+// a 970px-minimum table. The real fix defeats the min-width at higher
+// specificity: `.table-container > table.statblock th` (0,0,3,1) beats
+// Quartz's `.table-container > table th` (0,0,2,1).
+// Verified in headless Chromium: 974px → 279px across block/flex/grid parents.
 
-// Primary fix — :has() selector (Chrome 105+, Firefox 121+, Safari 15.4+)
+// Container: shrink to content, never stretch in flex/grid parents
 .table-container:has(table.statblock) {
-  display: inline-block !important;
-  width: fit-content !important;
+  display: inline-block;
+  width: fit-content;
   max-width: 100%;
-  overflow-x: visible;
+  overflow-x: auto;
   justify-self: start;
   align-self: start;
 }
 
-table.statblock {
+// Table: strip Quartz's 1rem margin + 1.5rem padding, auto sizing
+.table-container > table.statblock {
   font-family: var(--codeFont);
   font-size: 0.78rem;
   border-collapse: collapse;
-  width: auto !important;
-  max-width: none !important;
+  width: auto;
+  max-width: none;
   table-layout: auto;
   margin: 0.4rem 0 0.6rem 0;
+  padding: 0;
+}
 
-  thead tr {
-    background: none;
+// KEY OVERRIDE: defeat min-width:75px from Quartz base.scss
+// Specificity (0,0,3,1) beats Quartz's (0,0,2,1) — this is the fix
+.table-container > table.statblock th,
+.table-container > table.statblock td {
+  min-width: 0;
+  width: auto;
+  white-space: nowrap;
+  border: none;
+  line-height: 1.4;
+}
 
-    th {
-      font-family: var(--codeFont);
-      padding: 1px 6px 1px 0;
-      text-align: left;
-      font-weight: 700;
-      letter-spacing: 0.03em;
-      min-width: 1.6rem;
-      white-space: nowrap;
-      border: none;
-      border-bottom: 2px solid var(--darkgray);
-      color: var(--darkgray);
+// th: must explicitly override — Quartz base applies --headerFont (UnifrakturMaguntia)
+// to ALL th elements globally; a table-level font-family does not win
+.table-container > table.statblock th {
+  font-family: var(--codeFont);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 1px 6px 1px 0;
+  text-align: left;
+  color: var(--darkgray);
+  border-bottom: 2px solid var(--darkgray);
+}
 
-      &.profile {
-        font-family: var(--bodyFont);
-        letter-spacing: 0;
-        padding-right: 2rem;
-        min-width: 0;
-        color: var(--dark);
-      }
-    }
-  }
+// td
+.table-container > table.statblock td {
+  font-family: var(--codeFont);
+  padding: 2px 6px 2px 0;
+  text-align: left;
+}
 
-  tbody tr {
-    background: none;
+// Profile column header (first th) — body font, wider, left-aligned
+.table-container > table.statblock th.profile {
+  font-family: var(--bodyFont);
+  font-weight: normal;
+  letter-spacing: 0;
+  min-width: 4rem;
+  padding-right: 2rem;
+  color: var(--dark);
+  border-bottom: 2px solid var(--darkgray);
+}
 
-    td {
-      padding: 2px 6px 2px 0;
-      text-align: left;
-      white-space: nowrap;
-      border: none;
+// Profile data cell (first td) — spacer gap between name and stats
+.table-container > table.statblock td.profile-cell {
+  min-width: 4rem;
+  padding-right: 2rem;
+}
 
-      &.profile-cell {
-        padding-right: 2rem;
-      }
-    }
-  }
+// Reset base `.table-container > table > * { line-height: 2rem }`
+.table-container > table.statblock > * {
+  line-height: 1.4;
 }
 
 // ============================================================
@@ -91,6 +106,8 @@ table.statblock {
 // ============================================================
 // WARBAND STATUS BANNER
 // ============================================================
+// Retired in v3.28 (grade carried in tags, not banners) — kept here
+// in case any old pages still reference these classes.
 .warband-status {
   border-left: 4px solid var(--secondary);
   background-color: var(--highlight);

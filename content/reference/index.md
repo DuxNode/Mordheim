@@ -2,6 +2,6 @@
 title: Reference
 ---
 
-# Reference
+**[[reference/warbands/index|Warbands]]** — All warbands by grade: Grade 1A, Grade 1B, Grade 1C, Unofficial.
 
-*Pages in this section are listed in the navigation.*
+**[[reference/rules/index|Rules Reference]]** — Special rules, injuries, skills, spells, post-battle sequence, trading post, hired swords.
