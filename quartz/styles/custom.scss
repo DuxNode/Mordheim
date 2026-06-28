@@ -144,3 +144,18 @@ h1, h2, h3, h4, h5, h6,
 .content-meta {
   display: none;
 }
+
+// ============================================================
+// EXPLORER SIDEBAR — force body font
+// ============================================================
+// Quartz applies --headerFont globally to many elements including
+// the Explorer nav. Override to body font for readability.
+#explorer-content,
+.folder-outer,
+.folder-container,
+.folder-title,
+.folder-title span,
+ul.content li a {
+  font-family: var(--bodyFont) !important;
+  font-size: 0.9rem;
+}

@@ -1,6 +1,5 @@
 ---
 title: Grade 1C
-draft: true
 ---
 
 Grade 1C warbands are experimental rules, not released through GW/Fanatic, but approved by contributors with prior Grade 1A/1B experience. All are available on [mordheimer.net](https://mordheimer.net/docs/warbands/grade-1c-warbands/).
