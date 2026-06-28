@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 // ============================================================
-// STAT BLOCKS  (v3.33 — definitive shrink-wrap fix)
+// STAT BLOCKS  (v3.34 — centred columns, calibrated spacing)
 // ============================================================
 // ROOT CAUSE: Quartz base.scss forces `min-width: 75px` on every th/td
 // inside .table-container > table. With 10 stat columns that's a ~750px
@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6,
 // a 970px-minimum table. The real fix defeats the min-width at higher
 // specificity: `.table-container > table.statblock th` (0,0,3,1) beats
 // Quartz's `.table-container > table th` (0,0,2,1).
-// Verified in headless Chromium: 974px → 279px across block/flex/grid parents.
+// Verified in headless Chromium: 974px -> 279px across block/flex/grid parents.
 
 // Container: shrink to content, never stretch in flex/grid parents
 .table-container:has(table.statblock) {
@@ -60,12 +60,13 @@ h1, h2, h3, h4, h5, h6,
 // to ALL th elements globally; a table-level font-family does not win.
 // text-align: center so single-char (M, S, T, W, I, A) and two-char (WS, BS, Ld)
 // headers all sit centred over their stat values.
+// padding: 6px horizontal — tighter than 10px but with breathing room vs. original 0
 .table-container > table.statblock th {
   font-family: var(--codeFont);
   font-weight: 700;
   letter-spacing: 0.03em;
-  padding: 2px 10px 2px 10px;
-  min-width: 2.5rem;
+  padding: 2px 6px 2px 6px;
+  min-width: 1.75rem;
   text-align: center;
   color: var(--darkgray);
   border-bottom: 2px solid var(--darkgray);
@@ -74,8 +75,8 @@ h1, h2, h3, h4, h5, h6,
 // td: match th centering and padding so values sit directly under their headers
 .table-container > table.statblock td {
   font-family: var(--codeFont);
-  padding: 3px 10px 3px 10px;
-  min-width: 2.5rem;
+  padding: 3px 6px 3px 6px;
+  min-width: 1.75rem;
   text-align: center;
 }
 
@@ -104,6 +105,43 @@ h1, h2, h3, h4, h5, h6,
 // Reset base `.table-container > table > * { line-height: 2rem }`
 .table-container > table.statblock > * {
   line-height: 1.4;
+}
+
+// ============================================================
+// SKILL TABLE — centre tick marks
+// ============================================================
+// The skill table is a standard markdown table (not .statblock).
+// Quartz renders markdown table th/td left-aligned by default.
+// Centre-align the stat columns (everything except the first
+// column which holds the unit name).
+// Target: any table that has a header row containing "Combat"
+// — achieved by scoping to .page-content tables that are NOT
+// statblocks, then overriding th/td beyond the first column.
+//
+// Since we cannot scope by content in CSS, we use a class added
+// via a wrapper div in the markdown, OR rely on the fact that
+// skill tables follow a consistent structure. The cleanest
+// approach in Quartz v4 is to add class="skill-table" as an
+// HTML wrapper. However, to avoid touching every page, we also
+// add a general rule: any non-statblock table's th cells beyond
+// col 1 are centred, and td cells beyond col 1 are centred.
+//
+// Simpler targeted approach: use :not(.statblock) tables under
+// .page-content and centre all th/td — the first column will
+// naturally be left-aligned via the content alignment in markdown
+// (the |---| line in the source controls this).
+
+// Centre all th cells in non-statblock tables (skill tables, etc.)
+// The markdown alignment directive (|:---:|) will override this per-column.
+.table-container > table:not(.statblock) th {
+  text-align: center;
+}
+
+// Centre td cells in non-statblock tables — the first column uses
+// |---| (left) alignment in the markdown source so Quartz will emit
+// inline style="text-align: left" which will win over this rule.
+.table-container > table:not(.statblock) td {
+  text-align: center;
 }
 
 // ============================================================
