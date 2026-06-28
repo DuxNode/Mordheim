@@ -57,39 +57,48 @@ h1, h2, h3, h4, h5, h6,
 }
 
 // th: must explicitly override — Quartz base applies --headerFont (UnifrakturMaguntia)
-// to ALL th elements globally; a table-level font-family does not win
+// to ALL th elements globally; a table-level font-family does not win.
+// text-align: center so single-char (M, S, T, W, I, A) and two-char (WS, BS, Ld)
+// headers all sit centred over their stat values.
 .table-container > table.statblock th {
   font-family: var(--codeFont);
   font-weight: 700;
   letter-spacing: 0.03em;
-  padding: 1px 6px 1px 0;
-  text-align: left;
+  padding: 2px 10px 2px 10px;
+  min-width: 2.5rem;
+  text-align: center;
   color: var(--darkgray);
   border-bottom: 2px solid var(--darkgray);
 }
 
-// td
+// td: match th centering and padding so values sit directly under their headers
 .table-container > table.statblock td {
   font-family: var(--codeFont);
-  padding: 2px 6px 2px 0;
-  text-align: left;
+  padding: 3px 10px 3px 10px;
+  min-width: 2.5rem;
+  text-align: center;
 }
 
-// Profile column header (first th) — body font, wider, left-aligned
+// Profile column header (first th) — body font, left-aligned, wider gap
+// Override text-align: center from the general th rule above
 .table-container > table.statblock th.profile {
   font-family: var(--bodyFont);
   font-weight: normal;
   letter-spacing: 0;
   min-width: 4rem;
   padding-right: 2rem;
+  padding-left: 0;
+  text-align: left;
   color: var(--dark);
   border-bottom: 2px solid var(--darkgray);
 }
 
-// Profile data cell (first td) — spacer gap between name and stats
+// Profile data cell (first td) — override centering, keep gap
 .table-container > table.statblock td.profile-cell {
   min-width: 4rem;
   padding-right: 2rem;
+  padding-left: 0;
+  text-align: left;
 }
 
 // Reset base `.table-container > table > * { line-height: 2rem }`
