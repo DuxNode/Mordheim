@@ -42,11 +42,11 @@ A **Magister** starts with 20 experience.
 
 ## Skill Table
 
-| | Combat | Academic | Speed |
-|---|---|---|---|
-| Magister | ✓ | ✓ | ✓ |
-| Possessed | ✓ | | ✓ |
-| Mutants | ✓ | | ✓ |
+| | Combat | Shooting | Academic | Strength | Speed |
+|---|---|---|---|---|---|
+| Magister | ✓ | | ✓ | | ✓ |
+| Possessed | ✓ | | | ✓ | ✓ |
+| Mutants | ✓ | | | | ✓ |
 
 ---
 
