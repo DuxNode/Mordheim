@@ -19,7 +19,7 @@ export const sharedPageComponents: SharedLayout = {
 // so "grade-1a" matches both reference/warbands/grade-1a and any other
 // folder named grade-1a. The sort is applied at each level independently.
 const explorerConfig = Component.Explorer({
-  title: "Mordheim Australis",
+  title: "",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
