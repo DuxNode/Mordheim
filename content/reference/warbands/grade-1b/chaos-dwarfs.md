@@ -1,199 +1,53 @@
 ---
-title: "Chaos Dwarfs"
+title: Black Orcs
 tags:
-  - Chaos
-grade: 1b
+  - Grade-1B
+  - Greenskins
 ---
+**Source:** Nemesis Crown · **Setting:** Nemesis Crown
 
-<div class="warband-status grade-1b">Grade 1b — Australis 2027 Campaign Warband</div>
+*Smarter, stronger, more vicious and better equipped than the normal Orc (and that's saying something about Orcs). Black Orcs are amongst some of the worst foes anyone can face in single combat and a band of them is certainly something to put the fear into the hearts of men. They do appear more built than born and it is little wonder that there are many rumours regarding their origins.*
 
-**Source:** Border Town Burning · **Setting:** Border Town Burning
+*Since the Storm of Chaos there are many, many more of these monsters now wandering the Empire, having followed Grimgor Ironhide in his Waaagh! Where once the forces of the Empire could have tracked down warbands in a matter of weeks, now there is no means or enough men to perform such a task and thus the Black Orcs roam freely.*
 
-Few scholars know how exactly these Dwarfs came to be the evil and twisted creatures of Chaos they are now. A long and slow warping process has changed them forever. Sundered from others of their kind, trapped in underground holds on the ash-choked Plain of Zharr, darkness swept over them. From a worship born out of desperation, the bull-shaped god Hashut became their saviour and the Dwarfs of Karak Vlag became a perverted mockery of their former selves. Through infernal pacts with their mysterious daemon deity this bitter race has endured and gained an unnatural mastery of foul magic. They practise bloodthirsty rites which involve throwing captives into burning cauldrons of molten metal.
-
-The Black Dwarfs constantly trade armour, weapons and machines forged out of precious metals with their hammers and vile sorcery, for fresh supplies and victims. Those condemned souls are brought back to the Dark Lands. Deep beneath the ziggurat-shaped obsidian tower they are sentenced to toil in the labour pits of Mingol Zharr-Naggrund, the City of Fire and Desolation.
-
-Fell Sorcerer Priests mastermind tactical raids harvesting prisoners on the Silver Road to expand their labour force. Scouting for rich mineral veins and metal ores while scouring the land for wyrdstone deposits has led detachments of the Children of Darkness to Mordheim.
+*What aims do the Black Orcs have? What is the point of a tornado? It is meaningless to ponder such matters because all the Orcs want is to fight and that means attacking whoever crosses their path. Whatever they gain from such battling is simply that they get to fight. There is no logic from them nor can any be expected.*
 
 ---
 
 ## Special Rules
 
-The following special rules apply to all warriors in the warband excluding Informers:
+**Let the Goons Do the Work:** Black Orcs rely on themselves to do the killing and do not ride mounts of any kind. Only normal Orcs may ride a boar or other such mount.
 
-**Hard to Kill:** Like their uncorrupted brethren, Chaos Dwarfs are tough, resilient individuals who can only be taken out of action on a roll of 6 instead of 5–6 when rolling on the Injury chart. Treat a roll of 1–2 as knocked down, 3–5 as stunned, and 6 as out of action.
+**Da Boss is Dead!:** If the Boss is killed, a Black Orc will always assume leadership of the warband before any other type, irrespective of relative experience. The replacement will automatically acquire the Oi Behave! skill.
 
-**Hard Head:** Chaos Dwarfs ignore the special rules for clubs, maces, etc. They too are not easy to knock out!
+**Animosity:** Orcs and Goblins enjoy nothing more than a good scrap, unfortunately they're not always very discerning about who they scrap with. At the start of the Orc player's turn, roll a D6 for each Henchman who is either an Orc or a Goblin. A roll of 1 means that the warrior has taken offence to something one of his mates has done or said. Do not roll for models already engaged in hand-to-hand combat. Roll a second D6 to determine what happens:
 
-**Armour:** Chaos Dwarfs never suffer movement penalties for wearing armour.
-
-**Hired Swords:** A Chaos Dwarf warband may hire the following Hired Swords: Ogre Bodyguard, Pit Fighter, Warlock, Imperial Assassin, and Hobgoblin Scout. They may hire any Hired Sword described as *all may hire*, or allowed by Orc warbands and Chaos warbands. They may never hire Elves of any sort!
+| D6 | Result |
+|---|---|
+| 1 | **"I 'Erd Dat!"** The warrior decides that the nearest friendly Orc or Goblin Henchman has insulted him and must pay the price! If a friendly Orc or Goblin Henchman or Hired Sword is within charge reach, the offended warrior immediately charges and fights a round of hand-to-hand combat. At the end of this round, models move 1" apart and no longer count as being in close combat. If no friendly Orc or Goblin Henchmen are within charge reach and the warrior has a missile weapon, he immediately shoots at the nearest one. If none of the above applies, or if the nearest friendly model is an Orc Hero, treat as a 2–5 result. |
+| 2–5 | **"Wud Yoo Say?"** The warrior is fairly certain he heard an offensive sound from the nearest friendly Orc or Goblin but isn't quite sure. He spends the turn hurling insults and may do nothing else, though he may defend himself if attacked in hand-to-hand combat. |
+| 6 | **"I'll Show Yer!"** The warrior imagines that his mates are laughing about him and decides to be first to the scrap. This model must move as quickly as possible towards the nearest enemy model, charging into combat if possible. This extra move is in addition to his regular move in the Movement phase. If the extra move takes him within charge reach of an enemy model, he must charge during his regular movement. |
 
 ---
 
 ## Choice of Warriors
 
-A Chaos Dwarf warband must include a minimum of three models. You have 500 gold crowns which you can use to recruit and equip your warband. The maximum number of warriors in the warband is 15.
+A Black Orc warband must include a minimum of three models. You have 500 Gold Crowns with which you can recruit your initial warband. The maximum number of warriors in the warband may never exceed 12.
 
-- **Sorcerer:** Each Chaos Dwarf warband must have one Sorcerer — no more, no less!
-- **Bull Centaur:** Your warband may include one Bull Centaur.
-- **Gaolers:** Your warband may include up to two Gaolers.
-- **Chaos Dwarfs:** Your warband may include up to five Chaos Dwarfs.
-- **Informers:** Your warband may include any number of Informers.
-
----
+**Black Orc Boss:** Each Black Orc warband must have one Black Orc Boss.  
+**Black Orcs:** Your warband may include up to two Black Orcs.  
+**Young'uns:** Your warband may include up to two Young'uns.  
+**Orc Boyz:** Any number of models may be Orc Boyz.  
+**Orc Shootaz:** You may only have as many Shootaz as the warband has Boyz.  
+**Orc Nuttaz:** Your warband may include up to four Orc Nuttaz.  
+**Troll:** You may include a single Troll in the warband.  
 
 ## Starting Experience
 
-A **Sorcerer** starts with 20 Experience.  
-A **Bull Centaur** starts with 10 Experience.  
-**Gaolers** start with 8 Experience.  
-**Henchmen** start with 0 Experience.
-
----
-
-## Heroes
-
-### Sorcerer
-<span class="unit-meta">Hero · Leader · 0–1 · 85 gc · Starting XP: 20</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>9</td></tr></tbody>
-</table>
-
-It is the Priests of Hashut who administrate insidious edicts on behalf of the Chaos Dwarf race. This includes orchestrating trade agreements with the savage Northmen and Ogre tribes. From out of the Dark Lands they frequently lead warbands to plunder the Silk Road.
-
-**Weapons/Armour:** The Sorcerer may be equipped with weapons chosen from the Chaos Dwarf Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Leader:** Any warrior within 6" of the Sorcerer may use his Leadership when taking Leadership tests.
-
-**Wizard:** The Sorcerer is a wizard and follows the rules for wizards in the magic section. Sorcerers may cast Rituals of Hashut.
-
-**Priest:** The Sorcerer starts with two rituals. One of them is the Sacrificial Ritual. The other spell is determined as usual from the Rituals of Hashut.
-
----
-
-### Bull Centaur
-<span class="unit-meta">Hero · 0–1 · 100 gc · Starting XP: 10</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>8</td><td>4</td><td>3</td><td>4</td><td>4</td><td>1</td><td>3</td><td>2</td><td>9</td></tr></tbody>
-</table>
-
-Bull Centaurs are keen-witted creatures with the upper torso of a Chaos Dwarf and the body of a bull. They are the most favoured disciples of the Father of Darkness. In his divine image these mutated centauroids are fewer in number than Chaos Dwarfs, more powerful and swifter in battle.
-
-**Weapons/Armour:** Bull Centaurs may be equipped with weapons and armour chosen from the Chaos Dwarf Equipment list, but may never use any missile weapons.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Large Target:** Bull Centaurs are large creatures and therefore make tempting targets for archers. Anyone shooting at the Bull Centaur gains a +1 'to hit' and may shoot at it even if it is not the closest target. As large targets, a Bull Centaur adds an extra +20 to the warband's rating (instead of +5).
-
----
-
-### Gaolers
-<span class="unit-meta">Hero · 0–2 · 50 gc · Starting XP: 8</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>9</td></tr></tbody>
-</table>
-
-Of all the Black Dwarfs it is the wicked Gaolers who are the most infamous. The minds of these merciless fiends are bent on inflicting pain and their repulsive methods strike fear into the hearts of men. Gaolers delight in the torture of their prisoners for whom death never comes quick enough.
-
-**Weapons/Armour:** Gaolers may be equipped with weapons and armour chosen from the Chaos Dwarf Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Nasty Reputation:** Gaolers are known for their brutality. The dreaded sight of them and the very thought of being captured causes fear in Humans.
-
----
-
-## Henchmen
-
-*(Bought in groups of 1–5)*
-
-### Chaos Dwarfs
-<span class="unit-meta">Henchman · 0–5 · 40 gc</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>3</td><td>4</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>9</td></tr></tbody>
-</table>
-
-These resentful creatures toil in the forges of their city stronghold. To boost the production of weapons and Chaos armour in the foundries they set out on expeditions armed with blunderbusses to bolster the labour force kept shackled in pits beneath the earth.
-
-**Weapons/Armour:** Chaos Dwarfs may be equipped with weapons and armour chosen from the Chaos Dwarf Equipment list.
-
----
-
-### Informers
-<span class="unit-meta">Henchman · any number · 15 gc</span>
-
-<table class="statblock">
-<thead><tr><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody><tr><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
-</table>
-
-For those imprisoned in the foundries of Zharr-Naggrund, the fires of industry burn night and day. There is little reward for a spy, only deceitful promises of freedom. Lies are enough to motivate these treacherous informants into betraying their own kind for small dispensations.
-
-**Weapons/Armour:** Informers may be equipped with weapons and armour chosen from the Informer Equipment list.
-
-<p class="unit-rules"><strong>Special Rules</strong></p>
-
-**Drudgery:** Informers have had their will broken by their masters. Informers may never become Heroes. Re-roll all results of 'The lad's got talent' for them.
-
----
-
-## Equipment Lists
-
-### Chaos Dwarf Equipment List
-
-Starting warbands receive special prices on the Mechanical Suit and the Engine of Chaos. These special prices represent the lower rarity of these items in the Dark Lands. When attempting to manufacture these items in Mordheim or anywhere else outside Zharr-Naggrund, Chaos Dwarfs pay the full prices, and must roll to acquire them as normal.
-
-| Item | Cost |
-|---|---|
-| **Hand-to-hand Combat Weapons** | |
-| Dagger | 1st free / 2 gc |
-| Mace | 3 gc |
-| Hammer | 3 gc |
-| Axe | 5 gc |
-| Sword | 10 gc |
-| Steel Whip *(Gaolers only)* | 10 gc |
-| Double-handed weapon | 15 gc |
-| Man-catcher *(Gaolers only)* | 25 gc |
-| **Missile Weapons** | |
-| Pistol | 15 gc (30 gc for a brace) |
-| Blunderbuss | 30 gc |
-| Handgun | 35 gc |
-| **Armour** | |
-| Shield | 5 gc |
-| Helmet | 10 gc |
-| Light armour | 20 gc |
-| Heavy armour | 50 gc |
-| Mechanical Suit *(Sorcerer only)* | 175 gc |
-| **Miscellaneous** | |
-| Engine of Chaos | 125 gc |
-
-### Informer Equipment List
-
-| Item | Cost |
-|---|---|
-| **Hand-to-hand Combat Weapons** | |
-| Dagger | 1st free / 2 gc |
-| Mace | 3 gc |
-| Axe | 5 gc |
-| Spear | 10 gc |
-| **Missile Weapons** | |
-| Sling | 2 gc |
-| Bow | 10 gc |
-| **Armour** | |
-| Shield | 5 gc |
-| Helmet | 10 gc |
-| Light armour | 20 gc |
+A **Black Orc Boss** starts with 20 Experience.  
+**Black Orcs** start with 8 Experience.  
+**Young'uns** start with 0 Experience.  
+All **Henchmen** start with 0 Experience.  
 
 ---
 
@@ -201,163 +55,240 @@ Starting warbands receive special prices on the Mechanical Suit and the Engine o
 
 | | Combat | Shooting | Academic | Strength | Speed | Special |
 |---|---|---|---|---|---|---|
-| Sorcerer | ✓ | | ✓ | ✓ | | ✓ |
-| Bull Centaur | ✓ | | | ✓ | | |
-| Gaolers | ✓ | ✓ | | ✓ | | ✓ |
+| Black Orc Boss | ✓ | ✓ | | ✓ | ✓ | ✓ |
+| Black Orc | ✓ | ✓ | | ✓ | ✓ | ✓ |
+| Young'uns | ✓ | ✓ | | | | ✓ |
 
 ---
 
-## Chaos Dwarf Special Skills
+## Black Orc Equipment List
 
-Chaos Dwarfs may choose to use the following skill list instead of the standard skill lists.
+#### Hand-to-hand Combat Weapons
 
-**Extra Tough:** A Chaos Dwarf with this skill is notorious for walking away from wounds that would kill a lesser warrior. When rolling on the Heroes Serious Injury chart after a game in which he has been taken out of action, the dice may be re-rolled once. The result of this second dice roll must be accepted, even if it is a worse result.
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Axe | 5 gc |
+| Sword | 10 gc |
+| Choppa (counts as Morning Star) | 10 gc |
+| Spear | 10 gc |
+| Double-handed weapon | 15 gc |
 
-**Chaos Engineer:** The Hero has great technical skill and can use this to craft wicked armours and weapons. Whenever a Hero with this skill searches for Chaos armour (including Mechanical Suits) or Obsidian Weapons, he gets +3 on the roll. This represents the Engineer's ability to craft these items himself. The Hero ignores the Rarity and Gift of Chaos special rules and may never wear the Chaos Armours.
+#### Missile Weapons
 
-**Thick Skull:** The Hero has a thick skull, even for a Chaos Dwarf. He has a 3+ save on a D6 to avoid being stunned. If the save is made, treat a stunned result as knocked down instead. If the Chaos Dwarf also wears a helmet, this save is 2+ instead of 3+ (this takes the place of the normal Helmet special rule).
+| Item | Cost |
+|---|---|
+| Bow | 10 gc |
+| Crossbow | 25 gc |
 
-**Resource Hunter:** This Chaos Dwarf is especially good at locating valuable resources. When rolling on the Exploration chart at the end of a game, the hero may modify one dice roll by +1/–1.
+#### Armour
 
-**Tyrant:** This skill is for the Chaos Dwarf leader only. This Priest of Hashut is renowned for his tyranny. His word is absolute so his own warband fears his cruelty more than the enemy. When making a Rout test, and if led by a leader with this skill, the leader may inspire his warband to stick around. This skill allows the leader to re-roll any failed Rout test, as long as the leader is not knocked down or stunned. If re-rolled, the new result will apply even if worse. If the leader is taken out of action the warband must make an immediate Rout test.
-
-**True Grit:** Chaos Dwarfs are hardy individuals and this Hero is resolute, even for a Chaos Dwarf! When rolling on the Injury table for this Hero, a roll of 1–3 is treated as knocked down, 4–5 as stunned, and 6 as out of action.
-
----
-
-## Special Equipment
-
-### Man-catcher
-
-**Cost:** 25 gc · **Availability:** Rare 10 *(Gaolers only)*
-
-Semi-circular prongs mounted on pole-arms are popular among the Gaolers of Zharr-Naggrund. This non-lethal spring-loaded device can ensnare the most violent of prisoners.
-
-**Range:** Close Combat · **Strength:** As user
-
-**Capture:** A model taken out of action by a Man-catcher becomes captured. Do not roll for Serious Injuries — the catch is locked up in the Engine of Chaos instead. If the warband does not include an Engine of Chaos, roll for Serious Injuries as normal. Large models, such as Ogres, Trolls and Minotaurs, cannot be captured this way, and neither can animals.
-
-**Two-handed:** Requires two hands to wield.
+| Item | Cost |
+|---|---|
+| Buckler | 5 gc |
+| Shield | 5 gc |
+| Helmet | 10 gc |
+| Light armour | 20 gc |
+| Heavy armour | 50 gc |
 
 ---
 
-### Obsidian Weapon
+## Henchmen Equipment List
 
-**Cost:** 4 × Price · **Availability:** Rare 12
+#### Hand-to-hand Combat Weapons
 
-Obsidian is mined in the Dark Lands by the minions of Chaos. When expertly derived from its ore, the curious volcanic rock becomes ensorcelled by engineers manufacturing artefacts in the furnaces of Zharr-Naggrund. Forging weapons using these vile techniques requires acute diabolic expertise making them extremely rare.
+| Item | Cost |
+|---|---|
+| Dagger | 1st free / 2 gc |
+| Axe | 5 gc |
+| Sword | 10 gc |
+| Choppa (counts as Morning Star) | 10 gc |
+| Spear | 10 gc |
+| Double-handed weapon (Boyz and Nuttaz only) | 15 gc |
 
-**Range:** Close Combat · **Strength:** As user +1
+#### Missile Weapons
 
-**Blemished:** Although not strictly tainted by Chaos, all artefacts of Obsidian are considered tinged with evil by the same darkness associated with their artisans. Obsidian weapons may never be used by Dwarfs, Elves, Sisters of Sigmar, Witch Hunters or Priests.
+| Item | Cost |
+|---|---|
+| Bow | 10 gc |
+| Crossbow (Shootaz only) | 25 gc |
 
-**Heavy:** Obsidian weapons are so heavy that the warrior using them always strikes last, even when charging.
+#### Armour
 
----
-
-### Chaos Armour
-
-**Cost:** 185 gc · **Availability:** Rare 13
-
-Chaos Armour is a suit of strangely-worked and unnatural metal. It is the mark of a Dark God's favour. While most suits of Chaos Armour are received as gifts from an Infernal Patron, they can be acquired from Chaos Dwarfs in an exclusive exchange for many captives or perhaps some impossible deed.
-
-**Save:** 4+
-
-**Rarity:** When searching for Chaos armour a warrior gains +1 on his Rarity roll for each model he took out of action in the previous battle.
-
-**Cost:** The cost for found Chaos armour is decreased by 1 gold crown for each Experience point the Hero has.
-
-**Gift of Chaos:** Chaos armour is a gift from the Dark Gods to the worthy warrior. A Hero who has successfully purchased a suit of Chaos armour will never give it away to another warband member but put it on himself immediately. Chaos armour becomes fused to the body of its wearer — it can never be removed.
-
-**Spellcasters:** Chaos armour does not hinder its wearer from casting spells or rituals. It can be worn by spellcasters but they cannot combine it with a shield or buckler without appropriate skills.
-
-**Movement Penalty:** There is no Movement penalty for combining Chaos Armour with a Shield.
+| Item | Cost |
+|---|---|
+| Shield | 5 gc |
+| Helmet | 10 gc |
+| Light armour | 20 gc |
 
 ---
 
-### Mechanical Suit
+## Heroes
 
-**Cost:** 225 gc · **Availability:** Rare 14 *(Chaos Dwarfs only)*
-
-The Curse of Stone comes to all Chaos Dwarf Sorcerers, gradually transforming them to rock from the feet up. Engineers have crafted machines which can transport their Priests as they begin to pay the price for working dark rituals.
-
-**Rarity/Gift of Chaos/Movement Penalty/Spellcasters:** As Chaos Armour above.
-
-**Suited and Booted:** A Sorcerer equipped with a Mechanical Suit receives +3 to Movement.
-
----
-
-### Engine of Chaos
-
-**Cost:** 195 gc · **Availability:** Rare 10 *(Chaos Dwarfs only)*
-
-Gaolers lock up their victims in a twisted daemonic machine crafted by the industrial insanity of Chaos Engineers. The vehicle is a living prison on wheels. Armoured engines transport captives to the Dark Lands to feed fuel to furnaces or to become sacrifices.
+### 1 Black Orc Boss
+**90 gold crowns to hire**
 
 <table class="statblock">
-<thead><tr><th></th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
-<tbody>
-<tr><td>Engine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>8</td><td>4</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Wheel</td><td>–</td><td>–</td><td>–</td><td>–</td><td>6</td><td>1</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Daemon</td><td>6</td><td>–</td><td>–</td><td>–</td><td>6</td><td>3</td><td>–</td><td>–</td><td>–</td></tr>
-</tbody>
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>1</td><td>3</td><td>1</td><td>8</td></tr></tbody>
 </table>
 
-**Wagon:** The Engine of Chaos follows all rules for Wagons (Empire in Flames Supplement, pp. 30–33) unless specified otherwise.
+*Amongst some of the toughest of the tough, a Black Orc Boss has fought in numerous battles and proven to the gods just how truly powerful they can become. Taking a warband is the start of their ambitions as they will seek victories to meld the Boyz into larger and larger warbands until they have a Horde at their beck and call.*
 
-**Daemon:** The Engine of Chaos is powered by the binding of a daemon. All references to draft animals pulling the Wagon should be treated as referring to its daemon. Daemon movement is unaffected by cargo.
+**Weapons/Armour:** A Black Orc Boss may be equipped with weapons and armour chosen from the Black Orc Equipment list.
 
-**Passengers:** A Chaos Dwarf must function as the driver. No other models but captives may ride the Engine of Chaos. No more than six captives may be imprisoned in the Engine at a time — large creatures (Ogres, Minotaurs, etc.) count as two models.
+**Special Rules**
 
-**Hashut's Reward:** The Chaos Dwarfs may choose to send captives back to the Dark Lands after a battle, sacrificing them to Hashut. The Engine of Chaos plus one Hero must miss the next battle. Captives must be removed from their warbands' rosters permanently.
+**Leader:** Any warrior within 6" of the Boss may use his Leadership characteristic when taking Leadership tests.
 
-| Captives | Hashut's Reward |
-|---|---|
-| 1–3 | +1 Experience point for the leader. |
-| 4–5 | +D3 Experience points distributed among the Heroes. |
-| 6 | +2D3 Experience points distributed among the Heroes, plus D6×5 gold crowns. |
+**Black Orc:** The model starts with a natural 6+ Armour Save. This save may be combined with other equipment to improve it.
+
+**Oi Behave!:** If any Henchman fails his Animosity test within 6" of the Boss, the player may opt to have the Boss stamp his authority on the situation. The misbehaving Henchman receives an automatic hit at the Strength of the Orc player's choosing. If the Henchman is still on his feet after the slap, he may add a number equal to the Strength of the slap to his subsequent Animosity Effect roll.
 
 ---
 
-## Rituals of Hashut
+### 0–2 Black Orcs
+**60 gold crowns to hire**
 
-This is dark sorcery of fire and ash used by wicked Sorcerers among the Chaos Dwarfs. They are Priests and magicians who have carefully mastered the teachings of a daemonic god known as the Father of Darkness.
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>4</td><td>3</td><td>4</td><td>4</td><td>1</td><td>3</td><td>1</td><td>7</td></tr></tbody>
+</table>
 
-The Sorcerer starts with two rituals — one of which is always the Sacrificial Ritual (result 0). The other is determined randomly.
+*In it for the mayhem, and maybe even some loyalty to the Boss of the warband, these Black Orcs lead the charge at every turn. The Black Orcs just don't care what the target is — some Imperial peasant, herd of Beastmen or even the Boyz in the warband.*
 
-| D6 | Result |
-|---|---|
-| 0 | Sacrificial Ritual |
-| 1 | Spirit of Hashut |
-| 2 | Bellow of Doom |
-| 3 | Fumes of Azgorh |
-| 4 | Flickering Hide |
-| 5 | Lava Flow |
-| 6 | Earthquake |
+**Weapons/Armour:** Black Orcs may be equipped with weapons and armour chosen from the Black Orc Equipment list.
 
-**Sacrificial Ritual — Difficulty 10**
+**Special Rules**
 
-The Chaos Dwarf Sorcerer sacrifices the captives in a bloody ritual, carrying out his assignments as a High Priest of Hashut. The Sorcerer must be in contact with an Engine of Chaos to cast this spell. Remove one captive model from the Engine of Chaos and its starting warband's roster as a sacrifice. The Sorcerer may sacrifice additional captives to lower the spell's difficulty by –1 per sacrifice (declared before rolling). The Chaos Dwarf Sorcerer gains +D3 Experience.
+**Black Orc:** The model starts with a natural 6+ Armour Save. This save may be combined with other equipment to improve it.
 
-**Spirit of Hashut — Difficulty 9**
+---
 
-The air around the Sorcerer thickens to form a billowing avatar of the great Bull-God. In defiance this unholy likeness to the Father of Darkness rolls forward, trampling all before it. The player draws a line 18" from the Sorcerer. All models crossed by the line suffer one S4 hit.
+### 0–2 Young'uns
+**25 gold crowns to hire**
 
-**Bellow of Doom — Difficulty 8**
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>2</td><td>2</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>6</td></tr></tbody>
+</table>
 
-Crackling with arcane energy, the Sorcerer's features contort into the horned visage of the mighty Hashut. Smoke and flame spills from his maw as he lets loose a deafening sound that none may escape. All models engaged in base contact with the Sorcerer must make an immediate Leadership test or break from combat and run.
+*Keen, eager and, above all, green recruits to any warband, these lads haven't seen anywhere near as much action as the others in the warband and they're plenty keen to get in there and do some damage. Of course one day, they know it'll be their warband.*
 
-**Fumes of Azgorh — Difficulty 7**
+**Weapons/Armour:** Young'uns may be equipped with weapons and armour taken from the Henchmen Equipment list.
 
-The Sorcerer's mouth glows. Clouds of black gas are slowly emitted until, with an almighty belch, a wave of corrosive smoke erupts from his gaping jaws. The spell has a range of 8", hitting all models in its path on a D6 score of 4+. Any model hit suffers a S4 hit; roll to wound as normal. No armour saves allowed.
+**Special Rules**
 
-**Flickering Hide — Difficulty 10**
+**Black Orc Blood:** One Young'un may be upgraded to a Black Orc Young'un for 10 gc. This upgrade allows him to take the Proven Warrior special skill, thus making him a fully-fledged Black Orc Warrior.
 
-With eldritch power the target begins to burn from within. His skin spits and sparks wherever a blow is struck, as if like molten iron. The Sorcerer may cast this spell upon himself or any one model within 6". The flaming hide will negate any one wound suffered on a D6 roll of 4+. In hand-to-hand combat, any model which hits the flaming hide suffers one S3 hit for each hit scored. The Flaming Hide lasts until the beginning of the Sorcerer's next Shooting phase.
+---
 
-**Lava Flow — Difficulty 7**
+## Henchmen
 
-The Sorcerer melts into molten magma, burning itself into the earth. The Sorcerer may move 12" in any direction, even into combat, counting as a charge. However, due to the nature of this spell the Sorcerer may only reappear on or below the ground.
+*(Bought in groups of 1–5)*
 
-**Earthquake — Difficulty 9**
+### Orc Boyz
+**25 gold crowns to hire**
 
-Arms raised, the Sorcerer brings his staff crashing to the ground. The earth ripples outwards from the blow, and splits asunder. All models within 3" of the Sorcerer, friend or foe alike, must roll equal to or under their Initiative or suffer D3 S4 hits.
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>3</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>6</td></tr></tbody>
+</table>
+
+*No warband would be complete without the warm bodies to make up the numbers, and thus the Boyz are essential — purely because the Black Orcs need someone to kick around when they can't find anything else to do it to.*
+
+**Weapons/Armour:** Boyz may be equipped with weapons and armour chosen from the Henchmen Equipment list.
+
+**Special Rules**
+
+**Animosity:** At the start of every turn, every Orc Boy must take a test for Animosity (see Special Rules above).
+
+---
+
+### Orc Shootaz
+**25 gold crowns to hire**
+
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>3</td><td>3</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>6</td></tr></tbody>
+</table>
+
+*Not all Orcs enjoy getting into a fight straight away. Some are hunters, tracking prey and shooting it down from a distance, or recognise that sometimes you need to soften up a really tough foe before moving in to finish them off. This is the closest Orcs come to outright cowardice.*
+
+**Weapons/Armour:** Shootaz may be equipped with weapons and armour chosen from the Henchmen Equipment list.
+
+**Special Rules**
+
+**Animosity:** At the start of every turn, every Shoota must take a test for Animosity (see Special Rules above).
+
+**Uncommon:** A warband may not hire more Shootaz than they have Boyz. If a Boy dies and the Shootaz outnumber the Boyz, the next hire must be a Boy so that the balance is restored.
+
+---
+
+### 0–4 Orc Nuttaz
+**40 gold crowns to hire**
+
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>4</td><td>3</td><td>2</td><td>3</td><td>4</td><td>1</td><td>2</td><td>1</td><td>5</td></tr></tbody>
+</table>
+
+*These are Orcs who have been left a little bit unstable by the Storm of Chaos. They ain't right in the head, especially by Orc standards. Eventually they'll kill themselves, but only after they've killed everyone else.*
+
+**Weapons/Armour:** Nuttaz may be equipped with weapons and armour chosen from the Henchmen Equipment list. They can never use any form of armour or ranged weapons.
+
+**Special Rules**
+
+**Unstable:** These Orcs are not quite all there. They do not suffer from Animosity, but instead have a host of their own issues to deal with.
+
+**Crazy:** Nuttaz always pass any Leadership-based tests they are required to take. As a side effect their minds are too far-gone and they may never learn Academic skills should they become a Hero. They can never use their Leadership for Rout tests, nor have the Leader ability, except when they are the only models left on the board.
+
+**Savage:** Nuttaz must always run or charge their maximum distance towards the nearest opponent they can see; friendly models do not block line of sight. Additionally they fight with one extra attack whilst in combat (this does not appear on their profile nor count towards the racial maximum). If no enemy is visible they are moved under the player's control.
+
+---
+
+### 0–1 Troll
+**200 gold crowns to hire**
+
+<table class="statblock">
+<thead><tr><th class="profile">Profile</th><th>M</th><th>WS</th><th>BS</th><th>S</th><th>T</th><th>W</th><th>I</th><th>A</th><th>Ld</th></tr></thead>
+<tbody><tr><td class="profile-cell"></td><td>6</td><td>3</td><td>1</td><td>5</td><td>4</td><td>3</td><td>1</td><td>3</td><td>4</td></tr></tbody>
+</table>
+
+*Trolls are not intelligent enough to recognise the value of gold, but large amounts of food can often instil a certain loyalty in them. Black Orc Bosses like having Trolls in their bands because it's good to have someone who'll follow any order, no matter how stupid or suicidal.*
+
+**Weapons/Armour:** Trolls do not require weapons to fight but often carry a big club. In any event, Trolls can never be given weapons or armour.
+
+**Special Rules**
+
+**Fear:** Trolls are frightening monsters and cause fear.
+
+**Stupidity:** A Troll is subject to the rules for Stupidity.
+
+**Regeneration:** Trolls have a unique physiology that allows them to regenerate wounds. Whenever an enemy successfully inflicts a wound on a Troll, roll a D6 — on a result of 4 or more the wound is ignored and the Troll is unhurt. Trolls may not regenerate wounds caused by fire or fire-based magic. Trolls never roll for Injury after a battle unless they were taken out of action by a flaming weapon or spell, in which case they roll as a normal Henchman.
+
+**Dumb Monster:** A Troll is far too stupid to ever learn any new skills. Trolls do not gain experience.
+
+**Always Hungry:** The warband must pay 20 gold crowns upkeep after every game to keep the Troll. If the warband lacks the gold, the Boss may let the Troll count as 2 members so that he costs only 5 crowns — but this reduces the maximum warband size to 11 models.
+
+**Vomit Attack:** Instead of his normal attacks, a Troll can regurgitate highly corrosive digestive juices on a hand-to-hand combat opponent. This is a single attack that automatically hits at Strength 5 and ignores armour saves.
+
+**Large Target:** Trolls are Large Targets as defined in the shooting rules.
+
+---
+
+## Black Orc Special Skills
+
+Black Orc Heroes may use the following skill list instead of the standard skill lists available to them.
+
+**Proven Warrior:** This young warrior has proven himself worthy of his Black Orc heritage. This skill may only be taken by a Young'un with the Black Orc Blood ability and 25 Experience. Once he gains this skill the model is considered a full Black Orc Warrior, follows all the rules for Black Orcs, uses their equipment list, and has access to the same skill lists as a Black Orc.
+
+**'Ard 'Ead:** The warrior has a thick skull even for an Orc. He has a special 3+ save on a D6 to avoid being stunned — if the save is made, treat a stunned result as knocked down instead. If the Orc also wears a helmet, this save is 2+ instead of 3+, which replaces the normal Helmet special rule.
+
+**Waaagh!:** Orcs are aggressive creatures and some are experts at bulldozing charges. The warrior may add +D3" to his charge range.
+
+**'Ere We Go!:** Orcs often charge even the most fearsome opponents. The model may ignore Fear tests when charging.
+
+**Da Cunnin' Plan:** Only the Boss may have this skill. The warband may re-roll any failed Rout tests as long as the Boss is not out of action.
+
+**'Eadbasher:** The Hero has massive physical strength and has learned to aim blows at the heads of opponents. Any knocked down results the Orc causes in hand-to-hand combat count as stunned results instead.
