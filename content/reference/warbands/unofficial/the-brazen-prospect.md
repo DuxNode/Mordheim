@@ -35,7 +35,7 @@ As published — Ogre Bodyguard, Pit Fighter, Warlock, Imperial Assassin, Hobgob
 
 ## The Offering
 
-Once per post-battle sequence, before selling wyrdstone, the warband may sacrifice **one shard** upon its brazier-altar. A shard fed to the Brazen Bull's *Hungering Furnace* counts as this sacrifice — the daemon's feeding is itself an offering to Hashut, and the warband need not burn a second shard.
+Once per post-battle sequence, before selling wyrdstone, the warband may sacrifice **one shard** upon its brazier-altar. A shard fed to the Brazen Bull's *Iron Hunger* counts as this sacrifice — the daemon's feeding is itself an offering to Hashut, and the warband need not burn a second shard.
 
 Roll a D6 and apply the modifiers below, then consult the table. Modifiers apply only to the Offering made in the same post-battle sequence in which the deeds were performed — they do not carry over. Maximum +2.
 
@@ -299,15 +299,15 @@ A daemon bound into a bull-shaped furnace-idol of black iron, carried at the rea
 
 **Brazen-iron Hide:** 5+ armour save, modifiable as normal.
 
-**Living Furnace:** The Bull's close-combat attacks count as **magical, flaming** attacks.
+**Daemonfire:** The Bull's close-combat attacks count as **magical, flaming** attacks.
 
-**Furnace Maw:** An innate missile attack fired in the Shooting phase, following all normal shooting rules — requires line of sight; may not target *Hidden* models. Range 8", Strength 4, counts as a **magical, flaming** attack. It always hits on a **fixed 5+**: Ballistic Skill and all to-hit modifiers (cover, long range, large target, moving) are ignored, for better and worse. Not a move-or-fire weapon.
+**Fell Maw:** An innate missile attack fired in the Shooting phase, following all normal shooting rules — requires line of sight; may not target *Hidden* models. Range 8", Strength 4, counts as a **magical, flaming** attack. It always hits on a **fixed 5+**: Ballistic Skill and all to-hit modifiers (cover, long range, large target, moving) are ignored, for better and worse. Not a move-or-fire weapon.
 
 **Daemonic Fury:** When the Bull loses its first wound, the daemon within rages against its bindings. The Bull immediately gains **+1 Attack and +1 Initiative for the rest of the battle**.
 
 **Bound Daemon:** At the start of the Black Dwarf player's turn, if there is no friendly Daemonsmith within 6" who is standing (not knocked down, stunned or *out of action*), the Bull is subject to ***Stupidity*** that turn, testing on its own Leadership.
 
-**Hungering Furnace:** After every battle in which the Brazen Bull took part, the warband must feed it one wyrdstone shard before selling the rest. This shard also counts as the warband's Offering sacrifice for the same post-battle sequence — the daemon's feeding is the offering. If the warband cannot feed it, the daemon lies dormant and the Bull must miss the next battle.
+**Iron Hunger:** After every battle in which the Brazen Bull took part, the warband must feed it one wyrdstone shard before selling the rest. This shard also counts as the warband's Offering sacrifice for the same post-battle sequence — the daemon's feeding is the offering. If the warband cannot feed it, the daemon lies dormant and the Bull must miss the next battle.
 
 ---
 
